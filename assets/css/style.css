@@ -180,8 +180,8 @@ p { margin: 0 0 1em; }
 .daftar-artikel { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin: 0; padding: 0; list-style: none; }
 .artikel-item a { text-decoration: none; color: inherit; display: block; height: 100%; }
 .artikel-item time { font-size: var(--step--1); color: var(--tinta-2); }
-.artikel-item h3 { margin: 6px 0 8px; font-size: 1.25rem; }
-.artikel-item a:hover h3 { color: var(--merah); }
+.artikel-item h2, .artikel-item h3 { margin: 6px 0 8px; font-size: 1.25rem; }
+.artikel-item a:hover h2, .artikel-item a:hover h3 { color: var(--merah); }
 .artikel-item p { color: var(--tinta-2); margin: 0; font-size: .98rem; }
 .artikel-item { padding-top: 18px; border-top: 2px dashed var(--garis); }
 .artikel-kosong { color: var(--tinta-2); }
@@ -250,6 +250,11 @@ p { margin: 0 0 1em; }
   background: var(--kuning); display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: space-between;
 }
 .kotak-cta p { margin: 0; font-weight: 600; max-width: 40ch; }
+
+.artikel-balik { margin-top: 28px; color: var(--tinta-2); }
+.terkait { margin-top: 36px; padding-top: 24px; border-top: 2px dashed var(--garis); }
+.terkait h2 { font-size: var(--step-1); margin-top: 0; }
+.terkait ul { padding-left: 1.2em; }
 
 /* ---------- Responsif ---------- */
 @media (max-width: 900px) {

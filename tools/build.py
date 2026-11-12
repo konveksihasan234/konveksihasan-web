@@ -66,8 +66,14 @@ def esc(s: str) -> str:
 
 # ---------- layout ----------
 
-def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="website"):
+OG_DEFAULT = SITE + "/assets/img/og-default.jpg"
+
+
+def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="website",
+           og_image=None, og_alt="Konveksi seragam TK Konveksi Hasan", extra_head="", noindex=False):
     url = SITE + path
+    og_image = og_image or OG_DEFAULT
+    robots = "noindex, follow" if noindex else "index, follow, max-image-preview:large, max-snippet:-1"
     nav = [("/", "Beranda", "beranda"), ("/#produk", "Produk", "produk"),
            ("/#cara-pesan", "Cara pesan", "cara"), ("/blog/", "Blog", "blog")]
     nav_html = "".join(
@@ -85,6 +91,7 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
+<meta name="robots" content="{robots}">
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="{og_type}">
 <meta property="og:title" content="{esc(title)}">
@@ -92,8 +99,18 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
 <meta property="og:url" content="{url}">
 <meta property="og:locale" content="id_ID">
 <meta property="og:site_name" content="{NAMA}">
+<meta property="og:image" content="{og_image}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{esc(og_alt)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title)}">
+<meta name="twitter:description" content="{esc(description)}">
+<meta name="twitter:image" content="{og_image}">
+{extra_head}
 <meta name="theme-color" content="#1F3A68">
 <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -145,6 +162,34 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
 """
 
 
+# ---------- FAQ beranda ----------
+
+FAQ = [
+    ("Berapa minimal order seragam TK?",
+     "Minimal order 25 pcs. Jumlah ini biasanya setara satu sampai dua kelas TK."),
+    ("Berapa harga seragam TK per pcs?",
+     "Kisarannya Rp70.000 sampai Rp100.000 per pcs. Harga pastinya tergantung jumlah, ukuran, item yang dipesan, dan detail lainnya, jadi silakan tanya lewat WhatsApp."),
+    ("Berapa lama seragam selesai dibuat?",
+     "Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order saat itu. Pesan lebih awal sebelum tahun ajaran baru supaya tidak terburu-buru."),
+    ("Model seragam TK apa yang tersedia?",
+     "Seragam nasional TK: kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit untuk putri atau celana pendek untuk putra, dan topi putih-biru."),
+    ("Ukuran apa saja yang tersedia?",
+     "Tersedia beberapa pilihan ukuran. Kirim jumlah siswa per ukuran lewat WhatsApp, nanti kami bantu cocokkan."),
+    ("Bagaimana cara memesan?",
+     f"Hubungi WhatsApp {WA_TAMPIL}, sebutkan nama sekolah, jumlah siswa, dan target tanggal. Kami balas dengan penawaran dan estimasi selesai."),
+]
+
+
+def faq_html():
+    return "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in FAQ)
+
+
+def faq_jsonld():
+    return {"@context": "https://schema.org", "@type": "FAQPage",
+            "mainEntity": [{"@type": "Question", "name": q,
+                            "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in FAQ]}
+
+
 # ---------- artikel ----------
 
 FM = re.compile(r"^---\s*\n(.*?)\n---\s*\n(.*)$", re.S)
@@ -167,25 +212,34 @@ def baca_post(p: Path):
     meta["slug"] = meta.get("slug") or p.stem
     meta["isi_html"] = markdown.markdown(m.group(2), extensions=["tables", "sane_lists"])
     meta["status"] = meta.get("status", "publish")
+    # judul untuk <title>: pakai seo_title bila ada, tambah nama merek bila masih <= 60 karakter
+    dasar = meta.get("seo_title") or meta["title"]
+    dengan_merek = f"{dasar} | {NAMA}"
+    meta["page_title"] = dengan_merek if len(dengan_merek) <= 60 else dasar
     return meta
 
 
-def kartu_post(post):
+def kartu_post(post, h="h3"):
     return (
         f'<li class="artikel-item"><a href="/blog/{post["slug"]}/">'
         f'<time datetime="{post["date"].isoformat()}">{tanggal_id(post["date"])}</time>'
-        f'<h3>{esc(post["title"])}</h3><p>{esc(post["description"])}</p></a></li>'
+        f'<{h}>{esc(post["title"])}</{h}><p>{esc(post["description"])}</p></a></li>'
     )
 
 
-def daftar_post(posts):
+def daftar_post(posts, h="h3"):
     if not posts:
         return '<p class="artikel-kosong">Artikel pertama segera terbit.</p>'
-    return '<ul class="daftar-artikel">' + "".join(kartu_post(p) for p in posts) + "</ul>"
+    return '<ul class="daftar-artikel">' + "".join(kartu_post(p, h) for p in posts) + "</ul>"
 
 
-def halaman_post(post):
+def halaman_post(post, semua_post):
     path = f"/blog/{post['slug']}/"
+    lain = [p for p in semua_post if p["slug"] != post["slug"]][:3]
+    terkait = ""
+    if lain:
+        terkait = ('<section class="terkait"><h2>Artikel lainnya</h2><ul>' + "".join(
+            f'<li><a href="/blog/{p["slug"]}/">{esc(p["title"])}</a></li>' for p in lain) + "</ul></section>")
     body = f"""<article class="artikel">
   <div class="wadah">
     <div class="artikel-isi">
@@ -197,6 +251,8 @@ def halaman_post(post):
         <p>Butuh seragam TK untuk sekolah? Minimal order 25 pcs, kisaran Rp70–100 ribu per pcs.</p>
         <a class="tombol tombol-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_ICON} Tanya via WhatsApp</a>
       </div>
+      <p class="artikel-balik">Lihat juga: <a href="/#produk">detail seragam nasional TK</a> dan <a href="/#cara-pesan">cara pesan</a>.</p>
+      {terkait}
     </div>
   </div>
 </article>"""
@@ -211,6 +267,8 @@ def halaman_post(post):
         "publisher": {"@type": "Organization", "name": NAMA, "url": SITE},
         "mainEntityOfPage": SITE + path,
         "inLanguage": "id-ID",
+        "image": SITE + "/assets/img/og-default.jpg",
+        "keywords": post.get("keyword", ""),
     }, {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
@@ -220,8 +278,11 @@ def halaman_post(post):
             {"@type": "ListItem", "position": 3, "name": post["title"], "item": SITE + path},
         ],
     }]
-    return path, layout(title=f"{post['title']} | {NAMA}", description=post["description"],
-                        path=path, body=body, aktif="blog", jsonld=jsonld, og_type="article")
+    extra = (f'<meta property="article:published_time" content="{post["date"].isoformat()}">\n'
+             f'<meta property="article:author" content="{NAMA}">')
+    return path, layout(title=post["page_title"], description=post["description"],
+                        path=path, body=body, aktif="blog", jsonld=jsonld, og_type="article",
+                        og_alt=post["title"], extra_head=extra)
 
 
 # ---------- foto produk ----------
@@ -275,7 +336,8 @@ def main():
     home = (ROOT / "templates/home.html").read_text(encoding="utf-8")
     home = (home.replace("{{WA_LINK}}", WA_LINK).replace("{{WA_ICON}}", WA_ICON)
                 .replace("{{LATEST_POSTS}}", daftar_post(posts[:3]))
-                .replace("{{PRODUCT_PHOTO}}", foto_produk()))
+                .replace("{{PRODUCT_PHOTO}}", foto_produk())
+                .replace("{{FAQ}}", faq_html()))
     org = {
         "@context": "https://schema.org",
         "@type": "Organization",
@@ -283,13 +345,40 @@ def main():
         "url": SITE,
         "telephone": "+" + WA_NOMOR,
         "description": "Konveksi seragam nasional untuk TK dan PAUD. Minimal order 25 pcs.",
+        "logo": SITE + "/assets/img/logo-512.png",
+        "image": SITE + "/assets/img/og-default.jpg",
         "contactPoint": {"@type": "ContactPoint", "telephone": "+" + WA_NOMOR,
                          "contactType": "sales", "availableLanguage": "id"},
+    }
+    website = {"@context": "https://schema.org", "@type": "WebSite", "name": NAMA, "url": SITE + "/",
+               "inLanguage": "id-ID"}
+    produk = {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Seragam Nasional TK",
+        "description": "Seragam nasional TK: kemeja putih, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, dan topi. Minimal order 25 pcs.",
+        "image": [SITE + "/assets/img/produk.webp"] + [SITE + f"/assets/img/seragam-tk-{i}.webp" for i in range(1, 5)],
+        "brand": {"@type": "Brand", "name": NAMA},
+        "offers": {"@type": "AggregateOffer", "priceCurrency": "IDR", "lowPrice": "70000",
+                   "highPrice": "100000", "availability": "https://schema.org/InStock",
+                   "seller": {"@type": "Organization", "name": NAMA},
+                   "eligibleQuantity": {"@type": "QuantitativeValue", "minValue": 25, "unitText": "pcs"}},
+    }
+    video = {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "name": "Contoh seragam nasional TK Konveksi Hasan",
+        "description": "Video contoh seragam TK putri dan putra: kemeja putih, rompi biru, dasi, rok lipit atau celana pendek, dan topi.",
+        "thumbnailUrl": SITE + "/assets/img/reel-poster.webp",
+        "contentUrl": SITE + "/assets/video/seragam-tk-reel.mp4",
+        "uploadDate": "2026-11-12",
+        "duration": "PT24S",
     }
     tulis("/", layout(
         title="Konveksi Seragam TK — Min. Order 25 pcs | Konveksi Hasan",
         description="Konveksi seragam nasional TK dan PAUD. Harga Rp70–100 ribu per pcs, minimal order 25 pcs, produksi 3 minggu–1 bulan. Tanya via WhatsApp.",
-        path="/", body=home, aktif="beranda", jsonld=[org]))
+        path="/", body=home, aktif="beranda", jsonld=[org, website, produk, faq_jsonld(), video],
+        og_alt="Contoh seragam nasional TK buatan Konveksi Hasan"))
 
     # blog index
     blog_body = f"""<section class="halaman-kepala">
@@ -300,15 +389,28 @@ def main():
   </div>
 </section>
 <section class="bagian bagian-putih" style="padding-top:48px">
-  <div class="wadah">{daftar_post(posts)}</div>
+  <div class="wadah">{daftar_post(posts, "h2")}</div>
 </section>"""
-    tulis("/blog/", layout(title=f"Blog Seragam TK | {NAMA}",
-                           description="Artikel seputar seragam TK: cara pesan, ukuran, bahan, dan perawatan dari Konveksi Hasan.",
-                           path="/blog/", body=blog_body, aktif="blog"))
+    blog_ld = [{
+        "@context": "https://schema.org", "@type": "CollectionPage", "name": "Blog Seragam TK",
+        "url": SITE + "/blog/", "inLanguage": "id-ID",
+        "mainEntity": {"@type": "ItemList", "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "url": f"{SITE}/blog/{p['slug']}/", "name": p["title"]}
+            for i, p in enumerate(posts)]},
+    }, {
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Beranda", "item": SITE + "/"},
+            {"@type": "ListItem", "position": 2, "name": "Blog", "item": SITE + "/blog/"},
+        ],
+    }]
+    tulis("/blog/", layout(title=f"Blog Seragam TK: Panduan Pesan & Ukuran | {NAMA}"[:60].rstrip(" |"),
+                           description="Kumpulan panduan seragam TK dari Konveksi Hasan: cara pesan untuk sekolah, minimal order, harga, pilihan ukuran, dan tips merawat seragam anak.",
+                           path="/blog/", body=blog_body, aktif="blog", jsonld=blog_ld))
 
     # halaman artikel
     for p in posts:
-        path, isi = halaman_post(p)
+        path, isi = halaman_post(p, posts)
         tulis(path, isi)
 
     # 404
@@ -318,20 +420,28 @@ def main():
 <p><a class="tombol tombol-garis" href="/">Ke beranda</a></p>
 </div></section>"""
     (ROOT / "404.html").write_text(
-        layout(title=f"Halaman tidak ditemukan | {NAMA}", description="Halaman tidak ditemukan.",
-               path="/404.html", body=body404).replace(
-            '<meta name="description"', '<meta name="robots" content="noindex">\n<meta name="description"'),
+        layout(title=f"Halaman tidak ditemukan | {NAMA}", description="Halaman yang kamu cari tidak ditemukan di konveksihasan.com.",
+               path="/404.html", body=body404, noindex=True),
         encoding="utf-8")
 
     # sitemap + robots
     urls = [(SITE + "/", hari_ini), (SITE + "/blog/", posts[0]["date"] if posts else hari_ini)]
     urls += [(f"{SITE}/blog/{p['slug']}/", p["date"]) for p in posts]
+    gambar_home = ["produk.webp"] + [f"seragam-tk-{i}.webp" for i in range(1, 5)]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
-          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    sm += [f"  <url><loc>{u}</loc><lastmod>{d.isoformat()}</lastmod></url>" for u, d in urls]
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+          'xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
+    for u, d in urls:
+        extra = ""
+        if u == SITE + "/":
+            extra = "".join(f"<image:image><image:loc>{SITE}/assets/img/{g}</image:loc></image:image>"
+                            for g in gambar_home)
+        sm.append(f"  <url><loc>{u}</loc><lastmod>{d.isoformat()}</lastmod>{extra}</url>")
     sm.append("</urlset>")
     (ROOT / "sitemap.xml").write_text("\n".join(sm) + "\n", encoding="utf-8")
-    (ROOT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n", encoding="utf-8")
+    (ROOT / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\nDisallow: /wp-content/\nDisallow: /wp_old/\n\nSitemap: {SITE}/sitemap.xml\n",
+        encoding="utf-8")
 
     print(f"Build selesai: {len(posts)} artikel terbit, {len(semua) - len(posts)} terjadwal/draft.")
 

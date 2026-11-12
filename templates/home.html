@@ -113,7 +113,7 @@
     </div>
     <div class="galeri">
       <figure class="galeri-video">
-        <video src="/assets/video/seragam-tk-reel.mp4" poster="/assets/img/reel-poster.webp" muted loop playsinline autoplay preload="metadata" controls width="720" height="1280" aria-label="Video contoh seragam TK Konveksi Hasan"></video>
+        <video src="/assets/video/seragam-tk-reel.mp4" poster="/assets/img/reel-poster.webp" muted loop playsinline preload="none" controls data-putar-otomatis width="720" height="1280" aria-label="Video contoh seragam TK Konveksi Hasan"></video>
       </figure>
       <figure><img src="/assets/img/seragam-tk-1.webp" alt="Seragam TK putri: kemeja putih, rompi biru, dasi, rok lipit biru, dan topi" width="826" height="1100" loading="lazy"></figure>
       <figure><img src="/assets/img/seragam-tk-3.webp" alt="Seragam TK putri dengan dasi kupu-kupu biru dan badge TK di rompi" width="826" height="1100" loading="lazy"></figure>
@@ -152,11 +152,7 @@
   <div class="wadah">
     <h2>Pertanyaan yang sering diajukan</h2>
     <div class="faq">
-      <details><summary>Berapa minimal order seragam TK?</summary><p>Minimal order 25 pcs. Jumlah ini biasanya setara satu sampai dua kelas TK.</p></details>
-      <details><summary>Berapa harga seragam TK per pcs?</summary><p>Kisarannya Rp70.000 sampai Rp100.000 per pcs. Harga pastinya tergantung jumlah, ukuran, dan detail pesanan, jadi silakan tanya lewat WhatsApp.</p></details>
-      <details><summary>Berapa lama seragam selesai dibuat?</summary><p>Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order saat itu. Pesan lebih awal sebelum tahun ajaran baru supaya tidak terburu-buru.</p></details>
-      <details><summary>Ukuran apa saja yang tersedia?</summary><p>Tersedia beberapa pilihan ukuran. Kirim jumlah siswa per ukuran lewat WhatsApp, nanti kami bantu cocokkan.</p></details>
-      <details><summary>Bagaimana cara memesan?</summary><p>Hubungi WhatsApp 0812-8765-8415, sebutkan nama sekolah, jumlah siswa, dan target tanggal. Kami balas dengan penawaran dan estimasi selesai.</p></details>
+      {{FAQ}}
     </div>
   </div>
 </section>
@@ -169,8 +165,16 @@
 </section>
 
 <script>
-  // hormati pengaturan kurangi animasi: video tidak diputar otomatis
-  if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) {
-    document.querySelectorAll("video[autoplay]").forEach(function (v) { v.removeAttribute("autoplay"); v.pause(); });
-  }
+  // video diputar saat terlihat di layar, supaya tidak memperlambat muatan awal halaman
+  (function () {
+    var hemat = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var vids = document.querySelectorAll("video[data-putar-otomatis]");
+    if (hemat || !("IntersectionObserver" in window)) return;
+    var io = new IntersectionObserver(function (entri) {
+      entri.forEach(function (e) {
+        if (e.isIntersecting) { e.target.play().catch(function () {}); } else { e.target.pause(); }
+      });
+    }, { threshold: 0.35 });
+    vids.forEach(function (v) { io.observe(v); });
+  })();
 </script>

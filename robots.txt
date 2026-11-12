@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /wp-content/
+Disallow: /wp_old/
 
 Sitemap: https://konveksihasan.com/sitemap.xml

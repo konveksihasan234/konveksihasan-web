@@ -2,6 +2,7 @@
 title: Cara Pesan Seragam TK untuk Sekolah: Minimal Order, Harga, dan Lama Produksi
 description: Panduan memesan seragam nasional TK di Konveksi Hasan, mulai dari minimal order 25 pcs, kisaran harga Rp70–100 ribu, sampai waktu produksi 3 minggu–1 bulan.
 date: 2026-11-12
+seo_title: Cara Pesan Seragam TK: Min. Order, Harga, Produksi
 keyword: pesan seragam tk
 ---
 
