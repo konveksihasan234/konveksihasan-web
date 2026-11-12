@@ -10,6 +10,7 @@ Hasil (di root repo, ikut di-commit dan di-deploy cPanel):
 Pakai:  python3 tools/build.py
 Butuh:  pip install markdown
 """
+import hashlib
 import html
 import json
 import re
@@ -48,6 +49,8 @@ LOGO = (
     '<path d="M15 27 h10" stroke="#E2403A" stroke-width="1.6" stroke-dasharray="2 2"/>'
     '</svg>'
 )
+
+CSS_VER = hashlib.md5((ROOT / "assets/css/style.css").read_bytes()).hexdigest()[:8]
 
 BULAN = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli",
          "Agustus", "September", "Oktober", "November", "Desember"]
@@ -94,7 +97,7 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css?v={CSS_VER}">
 {ld}</head>
 <body>
 <header class="kepala">
