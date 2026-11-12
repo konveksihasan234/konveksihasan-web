@@ -227,7 +227,7 @@ def foto_produk():
     for nama in ("produk.webp", "produk.jpg", "produk.png"):
         if (ROOT / "assets/img" / nama).exists():
             return (f'<img src="/assets/img/{nama}" alt="Seragam nasional TK buatan Konveksi Hasan" '
-                    f'width="560" height="560" loading="lazy" style="border-radius:18px">')
+                    f'width="540" height="704" loading="lazy" style="border-radius:18px;width:100%;height:auto">')
     # ilustrasi sementara sampai foto produk dikirim
     return """<svg viewBox="0 0 360 300" role="img" aria-label="Ilustrasi tumpukan seragam terlipat">
   <rect x="40" y="210" width="280" height="56" rx="10" fill="#fff" stroke="#1F3A68" stroke-width="3"/>

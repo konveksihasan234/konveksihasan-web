@@ -93,13 +93,32 @@
       <p>Ringkasan pesanan yang paling sering ditanyakan kepala sekolah dan komite orang tua.</p>
       <table class="spek-tabel">
         <tr><th scope="row">Model</th><td>Seragam nasional TK</td></tr>
+        <tr><th scope="row">Contoh model</th><td>Kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, topi putih-biru</td></tr>
         <tr><th scope="row">Kisaran harga</th><td>Rp70.000 – Rp100.000 per pcs</td></tr>
         <tr><th scope="row">Minimal order</th><td>25 pcs</td></tr>
         <tr><th scope="row">Lama produksi</th><td>3 minggu – 1 bulan, tergantung antrean order</td></tr>
         <tr><th scope="row">Ukuran</th><td>Tersedia beberapa pilihan, detail via WhatsApp</td></tr>
       </table>
-      <p class="spek-catatan">Harga akhir tergantung jumlah, ukuran, dan detail pesanan. Hubungi kami untuk penawaran resmi.</p>
+      <p class="spek-catatan">Harga akhir tergantung jumlah, ukuran, item yang dipesan, dan detail lainnya. Hubungi kami untuk penawaran resmi.</p>
       <a class="tombol tombol-wa" href="{{WA_LINK}}" target="_blank" rel="noopener">{{WA_ICON}} Minta penawaran</a>
+    </div>
+  </div>
+</section>
+
+<section class="bagian bagian-putih" id="galeri">
+  <div class="wadah">
+    <div class="bagian-kepala">
+      <h2>Contoh seragam buatan kami</h2>
+      <p>Versi putri dengan rok lipit dan versi putra dengan celana pendek, lengkap dengan rompi, dasi, dan topi.</p>
+    </div>
+    <div class="galeri">
+      <figure class="galeri-video">
+        <video src="/assets/video/seragam-tk-reel.mp4" poster="/assets/img/reel-poster.webp" muted loop playsinline autoplay preload="metadata" controls width="720" height="1280" aria-label="Video contoh seragam TK Konveksi Hasan"></video>
+      </figure>
+      <figure><img src="/assets/img/seragam-tk-1.webp" alt="Seragam TK putri: kemeja putih, rompi biru, dasi, rok lipit biru, dan topi" width="826" height="1100" loading="lazy"></figure>
+      <figure><img src="/assets/img/seragam-tk-3.webp" alt="Seragam TK putri dengan dasi kupu-kupu biru dan badge TK di rompi" width="826" height="1100" loading="lazy"></figure>
+      <figure><img src="/assets/img/seragam-tk-2.webp" alt="Seragam TK putra: rompi biru, dasi, dan celana pendek biru" width="826" height="1100" loading="lazy"></figure>
+      <figure><img src="/assets/img/seragam-tk-4.webp" alt="Topi seragam TK putih-biru dengan logo TK" width="826" height="1100" loading="lazy"></figure>
     </div>
   </div>
 </section>
@@ -148,3 +167,10 @@
     <a class="tombol tombol-wa" href="{{WA_LINK}}" target="_blank" rel="noopener">{{WA_ICON}} Chat 0812-8765-8415</a>
   </div>
 </section>
+
+<script>
+  // hormati pengaturan kurangi animasi: video tidak diputar otomatis
+  if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    document.querySelectorAll("video[autoplay]").forEach(function (v) { v.removeAttribute("autoplay"); v.pause(); });
+  }
+</script>
