@@ -250,8 +250,8 @@ def halaman_post(post, semua_post):
       <p class="artikel-meta">Diterbitkan <time datetime="{post['date'].isoformat()}">{tanggal_id(post['date'])}</time> oleh Konveksi Hasan</p>
       {post['isi_html']}
       <div class="kotak-cta">
-        <p>Butuh seragam TK untuk sekolah? Minimal order 25 pcs, kisaran Rp70–100 ribu per pcs.</p>
-        <a class="tombol tombol-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_ICON} Tanya via WhatsApp</a>
+        <p>Pesan seragam TK untuk sekolah Anda. Minimal order 25 pcs, kisaran Rp70.000 sampai Rp100.000 per pcs.</p>
+        <a class="tombol tombol-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_ICON} Minta penawaran via WhatsApp</a>
       </div>
       <p class="artikel-balik">Lihat juga: <a href="/#produk">detail seragam nasional TK</a> dan <a href="/#cara-pesan">cara pesan</a>.</p>
       {terkait}
@@ -379,8 +379,8 @@ def main():
         "duration": "PT24S",
     }
     tulis("/", layout(
-        title="Konveksi Seragam TK — Min. Order 25 pcs | Konveksi Hasan",
-        description="Konveksi seragam nasional TK dan PAUD. Harga Rp70–100 ribu per pcs, minimal order 25 pcs, produksi 3 minggu–1 bulan. Tanya via WhatsApp.",
+        title="Konveksi Seragam TK, Min. Order 25 pcs | Konveksi Hasan",
+        description="Konveksi seragam nasional TK dan PAUD. Harga Rp70 ribu sampai Rp100 ribu per pcs, minimal order 25 pcs, produksi 3 minggu sampai 1 bulan.",
         path="/", body=home, aktif="beranda", jsonld=[org, website, produk, faq_jsonld(), video],
         og_alt="Contoh seragam nasional TK buatan Konveksi Hasan"))
 
@@ -428,7 +428,7 @@ def main():
     # 404
     body404 = f"""<section class="halaman-kepala"><div class="wadah">
 <h1>Halaman tidak ditemukan</h1>
-<p>Alamat yang kamu buka tidak ada. Kembali ke beranda atau tanya langsung lewat WhatsApp.</p>
+<p>Halaman ini tidak ada atau sudah dipindah. Buka beranda untuk melihat seragam dan cara pesan.</p>
 <p><a class="tombol tombol-garis" href="/">Ke beranda</a></p>
 </div></section>"""
     (ROOT / "404.html").write_text(

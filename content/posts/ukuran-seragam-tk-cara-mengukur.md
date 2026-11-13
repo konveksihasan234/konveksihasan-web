@@ -6,7 +6,7 @@ seo_title: Ukuran Seragam TK: Cara Mengukur Badan Anak
 keyword: ukuran seragam tk
 ---
 
-Menentukan ukuran seragam TK paling aman dilakukan dengan mengukur badan anak langsung memakai meteran kain, bukan menebak dari usia. Catat beberapa ukuran kunci seperti lingkar dada, panjang badan, lingkar pinggang, dan panjang bawahan, lalu cocokkan dengan pilihan ukuran yang tersedia di konveksi. Artikel ini menjelaskan cara mengukurnya langkah demi langkah, termasuk cara merekap ukuran untuk satu kelas.
+Menentukan ukuran seragam TK paling aman dilakukan dengan mengukur badan anak langsung memakai meteran kain, bukan menebak dari usia. Catat beberapa ukuran kunci seperti lingkar dada, panjang badan, lingkar pinggang, dan panjang bawahan, lalu cocokkan dengan pilihan ukuran yang tersedia di konveksi.
 
 ## Mengapa ukuran seragam TK perlu diukur, bukan ditebak
 
@@ -14,9 +14,9 @@ Anak dengan usia yang sama bisa memiliki tinggi dan berat badan yang sangat berb
 
 Mengukur langsung memberi beberapa manfaat:
 
-- **Seragam lebih nyaman.** Anak TK aktif duduk, berlari, dan bermain. Ukuran yang pas membuat mereka leluasa.
-- **Penukaran lebih sedikit.** Data ukuran yang akurat mengurangi kebutuhan menukar atau memperbaiki seragam setelah jadi.
-- **Pesanan lebih cepat diproses.** Konveksi dapat langsung mencocokkan data dengan pilihan ukuran tanpa banyak konfirmasi ulang.
+- Seragam lebih nyaman. Anak TK aktif duduk, berlari, dan bermain. Ukuran yang pas membuat mereka leluasa.
+- Penukaran lebih sedikit. Data ukuran yang akurat mengurangi kebutuhan menukar atau memperbaiki seragam setelah jadi.
+- Pesanan lebih cepat diproses. Konveksi dapat langsung mencocokkan data dengan pilihan ukuran tanpa banyak konfirmasi ulang.
 
 ## Alat yang perlu disiapkan
 
@@ -35,16 +35,16 @@ Minta anak berdiri tegak dengan tangan rileks di samping badan. Pastikan meteran
 
 ### Untuk kemeja dan rompi
 
-1. **Lingkar dada.** Lingkarkan meteran di bagian dada paling lebar, melewati bawah ketiak.
-2. **Panjang badan.** Ukur dari bahu bagian atas (dekat leher) turun ke bawah sampai panjang yang diinginkan, biasanya sedikit di bawah pinggang.
-3. **Lebar bahu.** Ukur dari ujung bahu kiri ke ujung bahu kanan melewati bagian belakang.
-4. **Panjang lengan.** Untuk kemeja lengan pendek, ukur dari ujung bahu sampai panjang lengan yang diinginkan.
+1. Lingkar dada. Lingkarkan meteran di bagian dada paling lebar, melewati bawah ketiak.
+2. Panjang badan. Ukur dari bahu bagian atas (dekat leher) turun ke bawah sampai panjang yang diinginkan, biasanya sedikit di bawah pinggang.
+3. Lebar bahu. Ukur dari ujung bahu kiri ke ujung bahu kanan melewati bagian belakang.
+4. Panjang lengan. Untuk kemeja lengan pendek, ukur dari ujung bahu sampai panjang lengan yang diinginkan.
 
 ### Untuk rok dan celana pendek
 
-1. **Lingkar pinggang.** Lingkarkan meteran di pinggang, tempat rok atau celana biasa dipakai.
-2. **Lingkar pinggul.** Ukur di bagian pinggul paling lebar.
-3. **Panjang bawahan.** Ukur dari pinggang turun sampai panjang rok atau celana yang diinginkan.
+1. Lingkar pinggang. Lingkarkan meteran di pinggang, tempat rok atau celana biasa dipakai.
+2. Lingkar pinggul. Ukur di bagian pinggul paling lebar.
+3. Panjang bawahan. Ukur dari pinggang turun sampai panjang rok atau celana yang diinginkan.
 
 ### Untuk topi
 
@@ -52,11 +52,11 @@ Lingkarkan meteran di kepala, melewati dahi bagian atas dan bagian belakang kepa
 
 ## Tips agar hasil ukuran akurat
 
-- **Ukur dua kali.** Bila hasil pertama dan kedua berbeda, ukur sekali lagi dan pakai angka yang paling sering muncul.
-- **Beri ruang gerak.** Anak tumbuh cepat. Saat mencocokkan dengan pilihan ukuran, banyak orang tua memilih yang sedikit lebih longgar agar seragam tetap nyaman sepanjang tahun ajaran.
-- **Jangan mengukur di atas jaket atau baju tebal.** Hasilnya bisa lebih besar dari ukuran sebenarnya.
-- **Catat dalam satuan yang sama.** Pakai sentimeter untuk semua ukuran agar tidak tertukar.
-- **Tulis nama lengkap anak.** Nama panggilan saja sering membingungkan saat ada dua anak dengan nama mirip.
+- Ukur dua kali. Bila hasil pertama dan kedua berbeda, ukur sekali lagi dan pakai angka yang paling sering muncul.
+- Beri ruang gerak. Anak tumbuh cepat. Saat mencocokkan dengan pilihan ukuran, banyak orang tua memilih yang sedikit lebih longgar agar seragam tetap nyaman sepanjang tahun ajaran.
+- Jangan mengukur di atas jaket atau baju tebal. Hasilnya bisa lebih besar dari ukuran sebenarnya.
+- Catat dalam satuan yang sama. Pakai sentimeter untuk semua ukuran agar tidak tertukar.
+- Tulis nama lengkap anak. Nama panggilan saja sering membingungkan saat ada dua anak dengan nama mirip.
 
 ## Kapan waktu yang tepat untuk mengukur
 
@@ -64,9 +64,9 @@ Waktu pengukuran sebaiknya disesuaikan dengan jadwal pemesanan. Bila terlalu jau
 
 Beberapa pilihan waktu yang praktis bagi sekolah:
 
-- **Saat pendaftaran siswa baru.** Orang tua biasanya datang ke sekolah, sehingga pengukuran bisa dilakukan sekaligus.
-- **Pada hari khusus pengukuran.** Guru menjadwalkan satu hari agar seluruh anak di kelas diukur bersamaan.
-- **Melalui orang tua di rumah.** Sekolah membagikan panduan singkat dan formulir, lalu orang tua mengukur dan mengirimkan hasilnya.
+- Saat pendaftaran siswa baru. Orang tua biasanya datang ke sekolah, sehingga pengukuran bisa dilakukan sekaligus.
+- Pada hari khusus pengukuran. Guru menjadwalkan satu hari agar seluruh anak di kelas diukur bersamaan.
+- Melalui orang tua di rumah. Sekolah membagikan panduan singkat dan formulir, lalu orang tua mengukur dan mengirimkan hasilnya.
 
 Apa pun caranya, tetapkan batas waktu pengumpulan data agar rekap bisa segera diselesaikan.
 
@@ -82,10 +82,10 @@ Contoh kolom rekap yang bisa dipakai:
 
 Beberapa hal yang perlu diperhatikan saat merekap:
 
-1. **Pisahkan putra dan putri.** Bawahan berbeda (rok lipit untuk putri, celana pendek untuk putra), sehingga jumlah masing-masing harus jelas.
-2. **Hitung total per komponen.** Misalnya berapa kemeja, rompi, dasi, rok, celana, dan topi yang dibutuhkan.
-3. **Tandai data yang belum lengkap.** Anak yang tidak hadir saat pengukuran bisa diberi tanda agar diukur menyusul.
-4. **Simpan satu salinan.** Rekap ini berguna untuk mengecek seragam saat dibagikan nanti.
+1. Pisahkan putra dan putri. Bawahan berbeda (rok lipit untuk putri, celana pendek untuk putra), sehingga jumlah masing-masing harus jelas.
+2. Hitung total per komponen. Misalnya berapa kemeja, rompi, dasi, rok, celana, dan topi yang dibutuhkan.
+3. Tandai data yang belum lengkap. Anak yang tidak hadir saat pengukuran bisa diberi tanda agar diukur menyusul.
+4. Simpan satu salinan. Rekap ini berguna untuk mengecek seragam saat dibagikan nanti.
 
 ## Mencocokkan ukuran dengan pilihan di konveksi
 
@@ -96,7 +96,7 @@ Di Konveksi Hasan, seragam nasional TK tersedia dalam beberapa pilihan ukuran. D
 Beberapa hal lain yang perlu diketahui sebelum memesan:
 
 - Minimal order 25 pcs.
-- Kisaran harga Rp70.000–Rp100.000 per pcs; harga pasti dikonfirmasi lewat WhatsApp.
+- Kisaran harga Rp70.000 sampai Rp100.000 per pcs; harga pasti dikonfirmasi lewat WhatsApp.
 - Lama produksi sekitar 3 minggu hingga 1 bulan, tergantung antrean order.
 
 Karena produksi membutuhkan waktu beberapa minggu, sebaiknya pengukuran dilakukan jauh sebelum seragam dibutuhkan. Langkah lengkap pemesanan bisa Anda baca di [cara pesan seragam TK](/blog/cara-pesan-seragam-tk/) atau bagian [cara pesan](/#cara-pesan) di beranda. Bila sekolah masih menimbang model, artikel [model seragam TK rompi](/blog/model-seragam-tk-rompi/) membahas bagian-bagiannya.

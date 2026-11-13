@@ -6,7 +6,7 @@ seo_title: Seragam TK Nasional: Komponen dan Panduan Pengadaan
 keyword: seragam tk nasional
 ---
 
-Seragam TK nasional adalah seragam harian yang dipakai banyak taman kanak-kanak di Indonesia, umumnya berupa kemeja putih dengan rompi berwarna, dilengkapi dasi, bawahan, dan topi. Bagi sekolah, memahami komponennya sejak awal membuat pengadaan lebih rapi: jumlah pesanan jelas, anggaran terukur, dan seragam siap tepat waktu. Artikel ini membahas komponen seragam TK nasional dan langkah praktis menyiapkannya.
+Seragam TK nasional adalah seragam harian yang dipakai banyak taman kanak-kanak di Indonesia, umumnya berupa kemeja putih dengan rompi berwarna, dilengkapi dasi, bawahan, dan topi. Bagi sekolah, memahami komponennya sejak awal membuat pengadaan lebih rapi: jumlah pesanan jelas, anggaran terukur, dan seragam siap tepat waktu.
 
 ## Apa yang dimaksud seragam TK nasional
 
@@ -33,21 +33,21 @@ Tidak semua sekolah memesan seluruh komponen sekaligus. Ada yang memesan set len
 
 Ada beberapa alasan praktis mengapa model ini bertahan dan banyak dipakai:
 
-- **Mudah dikenali.** Kombinasi kemeja putih dan rompi biru langsung terbaca sebagai seragam TK, termasuk saat anak mengikuti kegiatan di luar sekolah.
-- **Tampil rapi tanpa ribet.** Rompi menutupi kemeja yang mudah kusut saat anak bermain.
-- **Cocok untuk putra dan putri.** Bagian atas sama, bawahan menyesuaikan, sehingga satu kelas tetap kompak.
-- **Mudah dilanjutkan tiap angkatan.** Model yang sama dari tahun ke tahun membuat siswa baru dan lama terlihat seragam.
+- Mudah dikenali. Kombinasi kemeja putih dan rompi biru langsung terbaca sebagai seragam TK, termasuk saat anak mengikuti kegiatan di luar sekolah.
+- Tampil rapi tanpa ribet. Rompi menutupi kemeja yang mudah kusut saat anak bermain.
+- Cocok untuk putra dan putri. Bagian atas sama, bawahan menyesuaikan, sehingga satu kelas tetap kompak.
+- Mudah dilanjutkan tiap angkatan. Model yang sama dari tahun ke tahun membuat siswa baru dan lama terlihat seragam.
 
 ## Langkah pengadaan seragam TK nasional
 
 Pengadaan seragam berjalan lancar bila dilakukan berurutan. Berikut alur yang bisa diikuti sekolah:
 
-1. **Sepakati model.** Tentukan komponen, jenis dasi, dan apakah topi ikut dipesan.
-2. **Data jumlah siswa.** Hitung per kelas dan pisahkan putra dan putri, karena bawahannya berbeda.
-3. **Kumpulkan ukuran.** Ukur badan anak atau minta orang tua mengukur di rumah. Panduannya ada di artikel [cara mengukur ukuran seragam TK](/blog/ukuran-seragam-tk-cara-mengukur/).
-4. **Minta penawaran.** Kirim jumlah, komponen, dan target tanggal ke konveksi.
-5. **Konfirmasi dan produksi.** Setelah detail disetujui, pesanan masuk antrean produksi.
-6. **Cek saat seragam diterima.** Cocokkan jumlah dan ukuran dengan rekap sebelum dibagikan.
+1. Sepakati model. Tentukan komponen, jenis dasi, dan apakah topi ikut dipesan.
+2. Data jumlah siswa. Hitung per kelas dan pisahkan putra dan putri, karena bawahannya berbeda.
+3. Kumpulkan ukuran. Ukur badan anak atau minta orang tua mengukur di rumah. Panduannya ada di artikel [cara mengukur ukuran seragam TK](/blog/ukuran-seragam-tk-cara-mengukur/).
+4. Minta penawaran. Kirim jumlah, komponen, dan target tanggal ke konveksi.
+5. Konfirmasi dan produksi. Setelah detail disetujui, pesanan masuk antrean produksi.
+6. Cek saat seragam diterima. Cocokkan jumlah dan ukuran dengan rekap sebelum dibagikan.
 
 Rincian cara memesan di Konveksi Hasan bisa dibaca di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/).
 
@@ -66,10 +66,7 @@ Semakin lengkap data yang dikirim, semakin cepat penawaran bisa disusun. Siapkan
 
 Di Konveksi Hasan, informasi dasarnya sebagai berikut:
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs. Harga pasti dikonfirmasi lewat WhatsApp sesuai jumlah, ukuran, dan komponen yang dipesan.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Ukuran:** tersedia beberapa pilihan; detailnya diinformasikan lewat WhatsApp.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Karena produksi membutuhkan beberapa minggu, sebaiknya pesanan dikirim jauh sebelum seragam dipakai, terutama menjelang tahun ajaran baru ketika banyak sekolah memesan pada waktu yang sama.
 

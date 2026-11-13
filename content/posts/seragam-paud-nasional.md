@@ -6,13 +6,13 @@ seo_title: Seragam PAUD Nasional: Panduan untuk Sekolah
 keyword: seragam paud nasional
 ---
 
-Seragam PAUD nasional umumnya memakai model yang sama dengan seragam TK nasional, yaitu kemeja putih, rompi berwarna dengan badge, dasi, bawahan, dan topi, hanya saja dipakai oleh anak yang lebih kecil. Karena itu, pengadaannya perlu memperhatikan ukuran yang lebih beragam, jumlah siswa per kelompok yang sering kecil, dan kenyamanan anak yang baru pertama kali bersekolah. Artikel ini membahas hal-hal tersebut.
+Seragam PAUD nasional umumnya memakai model yang sama dengan seragam TK nasional, yaitu kemeja putih, rompi berwarna dengan badge, dasi, bawahan, dan topi, hanya saja dipakai oleh anak yang lebih kecil. Karena itu, pengadaannya perlu memperhatikan ukuran yang lebih beragam, jumlah siswa per kelompok yang sering kecil, dan kenyamanan anak yang baru pertama kali bersekolah.
 
 ## Seragam PAUD dan seragam TK: apa bedanya
 
 Dari sisi model, seragam PAUD nasional dan seragam TK nasional umumnya mirip. Perbedaan yang terasa justru ada pada pemakainya:
 
-| Aspek | Kelompok bermain / PAUD | TK A–B |
+| Aspek | Kelompok bermain / PAUD | TK A dan B |
 |---|---|---|
 | Rentang ukuran | Lebih kecil dan sangat beragam | Lebih seragam dalam satu kelas |
 | Kemandirian berpakaian | Masih banyak dibantu | Mulai bisa sendiri |
@@ -37,18 +37,18 @@ Foto contohnya bisa dilihat di bagian [produk](/#produk). Untuk PAUD, sekolah bi
 
 Anak usia PAUD baru beradaptasi dengan sekolah. Seragam yang tidak nyaman bisa membuat mereka rewel. Beberapa hal yang perlu diperhatikan:
 
-1. **Jangan terlalu pas.** Sisakan ruang gerak, karena anak usia ini tumbuh cepat dan banyak bergerak.
-2. **Mudah dibuka saat ke toilet.** Bawahan yang mudah dipakai dan dilepas membantu anak yang sedang belajar ke toilet sendiri.
-3. **Kurangi aksesori yang rumit.** Dasi yang mudah dipasang dan dilepas lebih praktis.
-4. **Beri label nama.** Anak kecil sering tertukar seragam saat berganti pakaian.
+1. Jangan terlalu pas. Sisakan ruang gerak, karena anak usia ini tumbuh cepat dan banyak bergerak.
+2. Mudah dibuka saat ke toilet. Bawahan yang mudah dipakai dan dilepas membantu anak yang sedang belajar ke toilet sendiri.
+3. Kurangi aksesori yang rumit. Dasi yang mudah dipasang dan dilepas lebih praktis.
+4. Beri label nama. Anak kecil sering tertukar seragam saat berganti pakaian.
 
 ## Mengatasi jumlah siswa yang sedikit
 
 Kelompok bermain atau PAUD kadang hanya memiliki belasan anak per kelompok. Di Konveksi Hasan, minimal order adalah 25 pcs. Beberapa cara agar pesanan memenuhi jumlah minimal:
 
-- **Gabungkan beberapa kelompok atau jenjang** dalam satu pesanan, misalnya kelompok bermain dan TK sekaligus.
-- **Gabungkan komponen** yang dibutuhkan dalam satu kali pesan, lalu tanyakan cara penghitungannya saat konfirmasi.
-- **Pesan cadangan untuk siswa baru** yang biasanya mendaftar di tengah tahun.
+- Gabungkan beberapa kelompok atau jenjang dalam satu pesanan, misalnya kelompok bermain dan TK sekaligus.
+- Gabungkan komponen yang dibutuhkan dalam satu kali pesan, lalu tanyakan cara penghitungannya saat konfirmasi.
+- Pesan cadangan untuk siswa baru yang biasanya mendaftar di tengah tahun.
 
 Rincian penghitungan jumlah dan harga pesanan sebaiknya dikonfirmasi langsung lewat WhatsApp, karena tergantung komponen dan ukuran yang dipesan.
 
@@ -67,10 +67,10 @@ Langkah lengkapnya ada di artikel [cara mengukur ukuran seragam TK](/blog/ukuran
 
 Di PAUD, orang tua biasanya lebih banyak terlibat dibanding di jenjang lain. Keterlibatan ini bisa dimanfaatkan untuk memperlancar pengadaan seragam:
 
-- **Formulir ukuran saat pendaftaran.** Orang tua mengisi data ukuran anak bersamaan dengan formulir pendaftaran.
-- **Panduan mengukur di rumah.** Bagikan panduan singkat bergambar agar orang tua bisa mengukur anak dengan tenang di rumah.
-- **Informasi biaya yang terbuka.** Sampaikan komponen yang didapat dan kisaran biaya sejak awal.
-- **Satu grup informasi.** Gunakan satu saluran komunikasi untuk pengumuman jadwal pengukuran, pembayaran, dan pembagian seragam.
+- Formulir ukuran saat pendaftaran. Orang tua mengisi data ukuran anak bersamaan dengan formulir pendaftaran.
+- Panduan mengukur di rumah. Bagikan panduan singkat bergambar agar orang tua bisa mengukur anak dengan tenang di rumah.
+- Informasi biaya yang terbuka. Sampaikan komponen yang didapat dan kisaran biaya sejak awal.
+- Satu grup informasi. Gunakan satu saluran komunikasi untuk pengumuman jadwal pengukuran, pembayaran, dan pembagian seragam.
 
 Orang tua anak usia PAUD juga sering bertanya soal kenyamanan. Jelaskan bahwa ukuran sengaja disisakan sedikit longgar karena anak tumbuh cepat, dan bahwa model dasi dipilih yang mudah dipakai.
 
@@ -89,10 +89,7 @@ Bagi PAUD yang baru dibuka, seragam sering menjadi salah satu persiapan terakhir
 
 ## Informasi pemesanan
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti dikonfirmasi lewat WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Langkah pemesanan selengkapnya ada di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/).
 

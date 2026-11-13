@@ -13,9 +13,9 @@ Kepala sekolah TK/PAUD, guru, komite sekolah, dan orang tua yang mengurus pengad
 | Nama | Konveksi Hasan |
 | Produk | Seragam nasional TK |
 | Contoh model | Kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit (putri) atau celana pendek (putra), topi putih-biru |
-| Harga | Kisaran Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp |
+| Harga | Kisaran Rp70.000 sampai Rp100.000 per pcs; harga pasti via WhatsApp |
 | Minimal order | 25 pcs |
-| Lama produksi | 3 minggu – 1 bulan, tergantung antrean order |
+| Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean order |
 | Ukuran | Tersedia beberapa pilihan, detail via WhatsApp (JANGAN menulis daftar ukuran) |
 | Kontak | WhatsApp 0812-8765-8415 |
 
@@ -29,6 +29,30 @@ Belum diketahui, JANGAN ditulis atau ditebak: alamat, jam operasional, area peng
 4. Tidak menyebut nama pesaing.
 5. Bahasa Indonesia yang ramah dan jelas, kalimat aktif, sapaan "Anda" atau netral. Tidak berlebihan dan tidak menjual secara agresif.
 6. Satu artikel = satu topik dan satu keyword utama. Tidak boleh mengulang topik atau keyword artikel yang sudah ada di `content/posts/`.
+
+## Aturan copywriting (antislop)
+
+Diadaptasi dari antislop copywriting skill (MIT): https://github.com/miqdadbadjuber/anti-slop/blob/main/skills/antislop-copywriting/SKILL.md . Tujuannya: tulisan terdengar seperti ditulis orang, bukan mesin, dan tidak memuat fakta karangan.
+
+Yang dilarang:
+- Fakta, angka, nama, tanggal, testimoni, atau klaim yang tidak ada di tabel fakta bisnis di atas. Bila kalimat butuh detail yang tidak ada, tulis versi sederhana tanpa detail itu.
+- Klaim tanpa bukti: "terpercaya", "terbaik", "berkualitas tinggi", "dijamin", "ribuan sekolah", "nomor satu".
+- Kata kosong: "revolusioner", "inovatif", "solusi terbaik", "next level", dan sejenisnya. Tulis manfaat yang spesifik.
+- Pembuka klise waktu: "Di era digital...", "Di zaman serba cepat...". Mulai langsung dari pokok bahasan.
+- Kalimat pengumuman: "Artikel ini membahas...", "Mari kita bahas...", "Simak ulasannya...". Langsung tulis isinya.
+- Paralelisme negatif: "bukan sekadar X, melainkan Y", "tidak hanya X tetapi juga Y".
+- Penegasan teatrikal dan penutup gaya chatbot: "Ingat baik-baik", "Semoga bermanfaat!", "Jangan ragu untuk...". Akhiri dengan fakta konkret terakhir.
+- Em dash (—) dan en dash (–). Pakai titik, koma, titik dua, kurung, atau kata "sampai" untuk rentang.
+- Butir daftar yang diawali label tebal ("- **Harga:** ..."), emoji di judul, huruf kapital untuk penekanan, dan teks tebal berlebihan (maksimal 6 per artikel).
+- Kelompok tiga yang dipaksakan. Daftar berisi sebanyak yang memang dibutuhkan isinya.
+- Kalimat pasif tanpa pelaku bila pelakunya jelas. Tulis "Kami kirim penawaran", bukan "Penawaran akan dikirimkan".
+- Ajakan (CTA) umum seperti "Pelajari lebih lanjut". Tulis tindakannya: "Minta penawaran via WhatsApp".
+
+Yang dijaga:
+- Suara yang ramah dan jelas untuk kepala sekolah, guru, komite, dan orang tua. Variasikan panjang kalimat.
+- Pakai kata yang paling jelas berulang kali, jangan berganti-ganti sinonim hanya untuk menghindari pengulangan.
+
+Sebelum terbit, jalankan dua cek: `python3 tools/copy_check.py` (otomatis) lalu baca ulang dan jawab dua pertanyaan: "Bagian mana yang terdengar seperti tulisan mesin?" dan "Apakah ada fakta, nama, angka, atau tanggal yang tidak ada di tabel fakta bisnis?" Perbaiki sampai jawabannya "tidak ada".
 
 ## Format file
 
@@ -57,7 +81,7 @@ Isi (Markdown):
 
 1. `pip install --break-system-packages -q markdown`
 2. `python3 tools/build.py`
-3. `python3 tools/seo_check.py` harus lolos (0 masalah). Bila gagal, perbaiki artikel; jangan mengubah aturan cek.
+3. `python3 tools/seo_check.py` dan `python3 tools/copy_check.py` harus lolos (0 masalah). Bila gagal, perbaiki artikel; jangan mengubah aturan cek.
 4. Commit semua perubahan (artikel + file hasil build) ke `main`, lalu push.
 5. Cron Job di cPanel menarik dan men-deploy dalam ≤ 15 menit.
 

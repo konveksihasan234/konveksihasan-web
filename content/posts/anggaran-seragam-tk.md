@@ -6,16 +6,16 @@ seo_title: Cara Menyusun Anggaran Seragam TK per Kelas
 keyword: anggaran seragam tk
 ---
 
-Anggaran seragam TK disusun dari tiga hal: jumlah siswa, komponen yang dipesan, dan harga per pcs. Dengan kisaran harga Konveksi Hasan Rp70.000–Rp100.000 per pcs dan minimal order 25 pcs, sekolah sudah bisa membuat perkiraan awal sebelum meminta penawaran resmi. Artikel ini menjelaskan cara menghitungnya langkah demi langkah, termasuk tips mengelola iuran dari orang tua.
+Anggaran seragam TK disusun dari tiga hal: jumlah siswa, komponen yang dipesan, dan harga per pcs. Dengan kisaran harga Konveksi Hasan Rp70.000 sampai Rp100.000 per pcs dan minimal order 25 pcs, sekolah sudah bisa membuat perkiraan awal sebelum meminta penawaran resmi.
 
 ## Data yang dibutuhkan sebelum menghitung
 
 Siapkan data berikut terlebih dahulu:
 
-1. **Jumlah siswa per kelas**, dipisah laki-laki dan perempuan.
-2. **Komponen yang akan dipesan**, misalnya kemeja, rompi, dasi, bawahan, dan topi.
-3. **Jumlah set per anak**, apakah satu set atau lebih.
-4. **Cadangan untuk siswa baru** yang mungkin mendaftar belakangan.
+1. Jumlah siswa per kelas, dipisah laki-laki dan perempuan.
+2. Komponen yang akan dipesan, misalnya kemeja, rompi, dasi, bawahan, dan topi.
+3. Jumlah set per anak, apakah satu set atau lebih.
+4. Cadangan untuk siswa baru yang mungkin mendaftar belakangan.
 
 Tanpa data ini, perkiraan anggaran mudah meleset.
 
@@ -53,11 +53,11 @@ Dari tabel ini, sekolah yang memesan 50 pcs bisa memperkirakan anggaran di renta
 
 Di banyak TK, biaya seragam dibebankan kepada orang tua melalui sekolah atau komite. Agar prosesnya tertib dan transparan:
 
-- **Umumkan rincian biaya sejak awal**, termasuk komponen yang didapat setiap anak.
-- **Tetapkan batas waktu pembayaran** yang selaras dengan jadwal pemesanan.
-- **Catat pembayaran per anak** dalam satu tabel yang sama dengan rekap ukuran.
-- **Bagikan rekap secara berkala** agar orang tua tahu status pesanan.
-- **Simpan bukti transaksi** dengan konveksi untuk laporan kepada orang tua.
+- Umumkan rincian biaya sejak awal, termasuk komponen yang didapat setiap anak.
+- Tetapkan batas waktu pembayaran yang selaras dengan jadwal pemesanan.
+- Catat pembayaran per anak dalam satu tabel yang sama dengan rekap ukuran.
+- Bagikan rekap secara berkala agar orang tua tahu status pesanan.
+- Simpan bukti transaksi dengan konveksi untuk laporan kepada orang tua.
 
 ## Mencocokkan anggaran dengan jadwal
 
@@ -83,17 +83,14 @@ Simpan tabel final setelah seragam dibagikan. Data ini sangat berguna sebagai ac
 
 ## Kesalahan umum dalam menyusun anggaran
 
-- **Lupa memisahkan komponen laki-laki dan perempuan**, sehingga jumlah rok dan celana tidak tepat.
-- **Tidak menyiapkan cadangan** untuk siswa yang mendaftar belakangan.
-- **Membandingkan penawaran yang isinya berbeda**, misalnya satu menghitung per pcs dan lainnya per set.
-- **Menunggu dana lengkap terlalu lama** hingga pemesanan mepet dengan hari pertama sekolah.
+- Lupa memisahkan komponen laki-laki dan perempuan, sehingga jumlah rok dan celana tidak tepat.
+- Tidak menyiapkan cadangan untuk siswa yang mendaftar belakangan.
+- Membandingkan penawaran yang isinya berbeda, misalnya satu menghitung per pcs dan lainnya per set.
+- Menunggu dana lengkap terlalu lama hingga pemesanan mepet dengan hari pertama sekolah.
 
 ## Informasi pemesanan di Konveksi Hasan
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Faktor yang memengaruhi harga dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/). Untuk langkah pemesanan, lihat bagian [cara pesan](/#cara-pesan).
 
@@ -105,8 +102,8 @@ Kalikan jumlah pcs yang dibutuhkan dengan batas bawah dan batas atas kisaran har
 
 ### Berapa anggaran minimal untuk memesan di Konveksi Hasan?
 
-Minimal order 25 pcs. Dengan kisaran Rp70.000–Rp100.000 per pcs, perkiraannya Rp1.750.000–Rp2.500.000, dengan harga pasti mengikuti penawaran resmi.
+Minimal order 25 pcs. Dengan kisaran Rp70.000 sampai Rp100.000 per pcs, perkiraannya Rp1.750.000 sampai Rp2.500.000, dengan harga pasti mengikuti penawaran resmi.
 
 ### Siapa yang sebaiknya mengelola iuran seragam?
 
-Biasanya sekolah atau komite. Yang terpenting, rincian biaya, batas waktu, dan pencatatan pembayaran disampaikan secara terbuka kepada orang tua.
+Biasanya sekolah atau komite. Apa pun pilihannya, rincian biaya, batas waktu, dan pencatatan pembayaran disampaikan secara terbuka kepada orang tua.

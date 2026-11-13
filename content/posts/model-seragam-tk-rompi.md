@@ -6,16 +6,16 @@ seo_title: Model Seragam TK Rompi: Bagian dan Tips Memilih
 keyword: model seragam tk rompi
 ---
 
-Model seragam TK rompi pada dasarnya terdiri dari kemeja putih yang dilapisi rompi berwarna, lalu dilengkapi dasi, bawahan, dan topi. Rompi membuat seragam terlihat rapi dan seragam satu kelas, sekaligus menjadi tempat badge sekolah. Artikel ini membahas bagian-bagian model seragam TK rompi, pilihan detail yang perlu diputuskan sekolah, dan tips memilih model yang nyaman untuk anak.
+Model seragam TK rompi pada dasarnya terdiri dari kemeja putih yang dilapisi rompi berwarna, lalu dilengkapi dasi, bawahan, dan topi. Rompi membuat seragam terlihat rapi dan seragam satu kelas, sekaligus menjadi tempat badge sekolah.
 
 ## Mengapa rompi banyak dipilih untuk seragam TK
 
 Rompi menjadi pilihan banyak sekolah TK dan PAUD karena beberapa alasan praktis:
 
-- **Tampilan langsung rapi.** Rompi menutupi bagian kemeja yang mudah kusut atau keluar dari bawahan saat anak bermain.
-- **Identitas sekolah jelas.** Badge TK di dada rompi membuat anak mudah dikenali sebagai siswa sekolah tersebut, misalnya saat kegiatan di luar sekolah.
-- **Mudah dipakai anak.** Rompi tanpa lengan lebih ringan dibanding jas, sehingga anak tetap leluasa bergerak.
-- **Warna menjadi ciri khas.** Kombinasi kemeja putih dan rompi berwarna mudah dikenali sebagai seragam TK.
+- Tampilan langsung rapi. Rompi menutupi bagian kemeja yang mudah kusut atau keluar dari bawahan saat anak bermain.
+- Identitas sekolah jelas. Badge TK di dada rompi membuat anak mudah dikenali sebagai siswa sekolah tersebut, misalnya saat kegiatan di luar sekolah.
+- Mudah dipakai anak. Rompi tanpa lengan lebih ringan dibanding jas, sehingga anak tetap leluasa bergerak.
+- Warna menjadi ciri khas. Kombinasi kemeja putih dan rompi berwarna mudah dikenali sebagai seragam TK.
 
 Bagi sekolah, rompi juga memudahkan penyeragaman. Selama model dan warnanya sama, seluruh kelas akan tampil kompak walaupun ukuran badan anak berbeda-beda.
 
@@ -62,12 +62,12 @@ Topi melengkapi seragam untuk upacara atau kegiatan di luar kelas. Bila sekolah 
 
 Anak usia TK aktif bergerak, duduk di lantai, dan bermain. Model yang dipilih sebaiknya mendukung kegiatan tersebut, bukan menyulitkan.
 
-1. **Utamakan kemudahan dipakai sendiri.** Anak TK sedang belajar mandiri. Model yang mudah dikenakan dan dilepas membantu mereka berlatih berpakaian sendiri.
-2. **Jangan terlalu pas badan.** Anak tumbuh cepat. Sisakan sedikit kelonggaran agar seragam tetap nyaman dipakai sepanjang tahun ajaran.
-3. **Perhatikan dasi.** Dasi yang mudah dipasang dan dilepas lebih praktis untuk anak dibanding dasi yang harus diikat.
-4. **Pilih model sederhana.** Hiasan yang terlalu banyak bisa membuat seragam mudah rusak dan sulit dirawat.
-5. **Samakan model untuk satu angkatan.** Model yang sama membuat foto kelas, upacara, dan kegiatan lomba tampak kompak.
-6. **Kumpulkan ukuran dengan rapi.** Catat ukuran setiap anak dalam satu rekap per kelas sebelum pesanan dikirim ke konveksi.
+1. Utamakan kemudahan dipakai sendiri. Anak TK sedang belajar mandiri. Model yang mudah dikenakan dan dilepas membantu mereka berlatih berpakaian sendiri.
+2. Jangan terlalu pas badan. Anak tumbuh cepat. Sisakan sedikit kelonggaran agar seragam tetap nyaman dipakai sepanjang tahun ajaran.
+3. Perhatikan dasi. Dasi yang mudah dipasang dan dilepas lebih praktis untuk anak dibanding dasi yang harus diikat.
+4. Pilih model sederhana. Hiasan yang terlalu banyak bisa membuat seragam mudah rusak dan sulit dirawat.
+5. Samakan model untuk satu angkatan. Model yang sama membuat foto kelas, upacara, dan kegiatan lomba tampak kompak.
+6. Kumpulkan ukuran dengan rapi. Catat ukuran setiap anak dalam satu rekap per kelas sebelum pesanan dikirim ke konveksi.
 
 ## Cara mempersiapkan pesanan seragam rompi
 
@@ -79,7 +79,7 @@ Setelah model disepakati, langkah berikutnya adalah menyiapkan pesanan. Urutan s
 4. Tentukan tanggal seragam harus sudah dipakai, lalu hitung mundur waktu pemesanan.
 5. Hubungi konveksi untuk konfirmasi harga, ukuran, dan jadwal produksi.
 
-Di Konveksi Hasan, minimal order seragam adalah 25 pcs dengan kisaran harga Rp70.000–Rp100.000 per pcs. Harga pasti diinformasikan lewat WhatsApp sesuai model dan jumlah pesanan. Lama produksi sekitar 3 minggu hingga 1 bulan, tergantung antrean order, jadi sebaiknya pesan jauh sebelum seragam dibutuhkan. Langkah lengkapnya bisa Anda baca di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/) atau bagian [cara pesan](/#cara-pesan) di beranda.
+Di Konveksi Hasan, minimal order seragam adalah 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Harga pasti diinformasikan lewat WhatsApp sesuai model dan jumlah pesanan. Lama produksi sekitar 3 minggu hingga 1 bulan, tergantung antrean order, jadi sebaiknya pesan jauh sebelum seragam dibutuhkan. Langkah lengkapnya bisa Anda baca di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/) atau bagian [cara pesan](/#cara-pesan) di beranda.
 
 Seragam tersedia dalam beberapa pilihan ukuran. Untuk detail ukuran yang cocok dengan anak-anak di sekolah Anda, silakan tanyakan langsung lewat WhatsApp 0812-8765-8415.
 
@@ -87,10 +87,10 @@ Seragam tersedia dalam beberapa pilihan ukuran. Untuk detail ukuran yang cocok d
 
 Beberapa hal kecil sering membuat pengadaan seragam tertunda atau hasilnya kurang sesuai harapan:
 
-- **Model berubah setelah pesanan berjalan.** Perubahan detail di tengah jalan bisa memundurkan jadwal. Sepakati model sebelum memesan.
-- **Jumlah putra dan putri tidak dipisah.** Akibatnya jumlah rok dan celana tidak sesuai kebutuhan.
-- **Badge tidak disiapkan.** File badge yang buram atau belum ada membuat proses menunggu.
-- **Memesan terlalu mepet.** Waktu produksi beberapa minggu perlu diperhitungkan sejak awal, terutama menjelang tahun ajaran baru.
+- Model berubah setelah pesanan berjalan. Perubahan detail di tengah jalan bisa memundurkan jadwal. Sepakati model sebelum memesan.
+- Jumlah putra dan putri tidak dipisah. Akibatnya jumlah rok dan celana tidak sesuai kebutuhan.
+- Badge tidak disiapkan. File badge yang buram atau belum ada membuat proses menunggu.
+- Memesan terlalu mepet. Waktu produksi beberapa minggu perlu diperhitungkan sejak awal, terutama menjelang tahun ajaran baru.
 
 ## Tanya jawab seputar model seragam TK rompi
 
@@ -104,7 +104,7 @@ Komponen yang dipesan bisa didiskusikan sesuai kebutuhan sekolah. Sampaikan daft
 
 ### Berapa minimal order seragam rompi di Konveksi Hasan?
 
-Minimal order adalah 25 pcs. Harga berada di kisaran Rp70.000–Rp100.000 per pcs, dengan harga pasti dikonfirmasi lewat WhatsApp.
+Minimal order adalah 25 pcs. Harga berada di kisaran Rp70.000 sampai Rp100.000 per pcs, dengan harga pasti dikonfirmasi lewat WhatsApp.
 
 ### Berapa lama seragam rompi selesai dibuat?
 

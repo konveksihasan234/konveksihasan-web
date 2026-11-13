@@ -6,7 +6,7 @@ seo_title: Kapan Waktu Terbaik Pesan Seragam TK?
 keyword: kapan pesan seragam tk
 ---
 
-Waktu terbaik memesan seragam TK adalah jauh sebelum seragam dipakai, idealnya dua sampai tiga bulan sebelum tahun ajaran baru. Produksi di Konveksi Hasan memakan waktu 3 minggu hingga 1 bulan tergantung antrean, dan sekolah juga butuh waktu untuk mengumpulkan data siswa serta ukuran. Artikel ini membantu Anda menghitung mundur jadwal pemesanan agar seragam siap tepat waktu.
+Waktu terbaik memesan seragam TK adalah jauh sebelum seragam dipakai, idealnya dua sampai tiga bulan sebelum tahun ajaran baru. Produksi di Konveksi Hasan memakan waktu 3 minggu hingga 1 bulan tergantung antrean, dan sekolah juga butuh waktu untuk mengumpulkan data siswa serta ukuran.
 
 ## Mengapa waktu pemesanan sangat menentukan
 
@@ -22,7 +22,7 @@ Bila satu tahap mundur, tahap berikutnya ikut mundur.
 
 ## Musim ramai pemesanan seragam
 
-Tahun ajaran baru di Indonesia umumnya dimulai sekitar bulan Juli. Menjelang waktu itu, banyak sekolah memesan seragam bersamaan. Data Ubersuggest untuk Indonesia (November 2025–Oktober 2026) juga memperlihatkan pola serupa: pencarian "harga seragam tk" naik sejak Mei dan mencapai puncaknya di Juli, lalu turun kembali setelahnya.
+Tahun ajaran baru di Indonesia umumnya dimulai sekitar bulan Juli. Menjelang waktu itu, banyak sekolah memesan seragam bersamaan. Data Ubersuggest untuk Indonesia (November 2025 sampai Oktober 2026) juga memperlihatkan pola serupa: pencarian "harga seragam tk" naik sejak Mei dan mencapai puncaknya di Juli, lalu turun kembali setelahnya.
 
 Artinya, memesan lebih awal sebelum musim ramai membuat sekolah punya ruang waktu lebih lega.
 
@@ -33,9 +33,9 @@ Gunakan tanggal hari pertama seragam dipakai sebagai titik awal, lalu hitung mun
 | Tahap | Perkiraan waktu |
 |---|---|
 | Pembagian dan pengecekan seragam | 1 minggu sebelum dipakai |
-| Produksi di Konveksi Hasan | 3 minggu – 1 bulan, tergantung antrean |
+| Produksi di Konveksi Hasan | 3 minggu sampai 1 bulan, tergantung antrean |
 | Konfirmasi pesanan dan penawaran | Beberapa hari |
-| Pengumpulan data dan ukuran siswa | 1–2 minggu |
+| Pengumpulan data dan ukuran siswa | 1 sampai 2 minggu |
 | Penetapan model dan komponen | Sebelum pengumpulan ukuran |
 
 Dari tabel itu, total waktu yang dibutuhkan bisa mencapai sekitar dua bulan. Menambah cadangan waktu dua sampai empat minggu membuat jadwal lebih aman.
@@ -44,11 +44,11 @@ Dari tabel itu, total waktu yang dibutuhkan bisa mencapai sekitar dua bulan. Men
 
 Misalkan seragam harus dipakai pada pertengahan Juli. Jadwal yang nyaman bisa seperti ini:
 
-1. **Awal April:** sepakati model, komponen, dan siapkan badge sekolah.
-2. **Pertengahan April – awal Mei:** kumpulkan data siswa baru dan ukuran badan.
-3. **Pertengahan Mei:** kirim pesanan dan konfirmasi penawaran.
-4. **Akhir Mei – akhir Juni:** produksi berjalan.
-5. **Awal Juli:** seragam diterima, dicek, lalu dibagikan.
+1. Awal April: sepakati model, komponen, dan siapkan badge sekolah.
+2. Pertengahan April sampai awal Mei: kumpulkan data siswa baru dan ukuran badan.
+3. Pertengahan Mei: kirim pesanan dan konfirmasi penawaran.
+4. Akhir Mei sampai akhir Juni: produksi berjalan.
+5. Awal Juli: seragam diterima, dicek, lalu dibagikan.
 
 Jadwal ini hanya contoh. Sesuaikan dengan kalender sekolah dan waktu pendaftaran siswa baru di sekolah Anda.
 
@@ -56,9 +56,9 @@ Jadwal ini hanya contoh. Sesuaikan dengan kalender sekolah dan waktu pendaftaran
 
 Sering kali jumlah siswa baru belum pasti saat waktu memesan sudah dekat. Beberapa cara mengatasinya:
 
-- **Pesan bertahap.** Kirim pesanan pertama untuk siswa yang sudah pasti, lalu pesanan susulan untuk sisanya. Ingat bahwa setiap pesanan di Konveksi Hasan memiliki minimal order 25 pcs.
-- **Gunakan data tahun lalu.** Jumlah siswa tahun sebelumnya bisa menjadi perkiraan awal.
-- **Kumpulkan ukuran saat pendaftaran.** Setiap orang tua yang mendaftar langsung mengisi formulir ukuran.
+- Pesan bertahap. Kirim pesanan pertama untuk siswa yang sudah pasti, lalu pesanan susulan untuk sisanya. Ingat bahwa setiap pesanan di Konveksi Hasan memiliki minimal order 25 pcs.
+- Gunakan data tahun lalu. Jumlah siswa tahun sebelumnya bisa menjadi perkiraan awal.
+- Kumpulkan ukuran saat pendaftaran. Setiap orang tua yang mendaftar langsung mengisi formulir ukuran.
 
 Panduan mengukur badan anak ada di artikel [cara mengukur ukuran seragam TK](/blog/ukuran-seragam-tk-cara-mengukur/).
 
@@ -89,10 +89,7 @@ Memesan di luar musim ramai biasanya membuat jadwal lebih fleksibel, walaupun la
 
 ## Informasi pemesanan di Konveksi Hasan
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Detail biaya dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/), dan langkah pemesanan ada di bagian [cara pesan](/#cara-pesan).
 

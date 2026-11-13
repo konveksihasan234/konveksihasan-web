@@ -6,7 +6,7 @@ seo_title: Cara Merawat Seragam TK agar Awet dan Tetap Putih
 keyword: cara merawat seragam tk
 ---
 
-Merawat seragam TK agar awet pada dasarnya bergantung pada tiga kebiasaan: mencuci kemeja putih terpisah dari bagian berwarna, tidak menunda membersihkan noda, dan menjemur di tempat teduh. Seragam anak TK dipakai berulang kali dan sering terkena makanan, krayon, atau tanah, sehingga perawatan yang benar membuatnya tetap layak dipakai sepanjang tahun ajaran. Artikel ini berisi panduan praktis yang bisa dibagikan sekolah kepada orang tua.
+Merawat seragam TK agar awet pada dasarnya bergantung pada tiga kebiasaan: mencuci kemeja putih terpisah dari bagian berwarna, tidak menunda membersihkan noda, dan menjemur di tempat teduh. Seragam anak TK dipakai berulang kali dan sering terkena makanan, krayon, atau tanah, sehingga perawatan yang benar membuatnya tetap layak dipakai sepanjang tahun ajaran.
 
 ## Kenali bagian seragam yang perlu perhatian khusus
 
@@ -21,11 +21,11 @@ Merawat seragam TK agar awet pada dasarnya bergantung pada tiga kebiasaan: mencu
 
 ## Cara mencuci seragam TK
 
-1. **Pisahkan warna.** Cuci kemeja putih terpisah dari rompi, bawahan, dan dasi biru agar tidak terkena luntur.
-2. **Balik bagian dalam.** Membalik rompi dan bawahan sebelum dicuci membantu menjaga warna dan badge.
-3. **Gunakan deterjen secukupnya.** Deterjen berlebihan sulit dibilas dan bisa meninggalkan bekas.
-4. **Hindari merendam terlalu lama**, terutama untuk bagian berwarna.
-5. **Bilas sampai bersih** agar tidak ada sisa sabun yang membuat kain kaku.
+1. Pisahkan warna. Cuci kemeja putih terpisah dari rompi, bawahan, dan dasi biru agar tidak terkena luntur.
+2. Balik bagian dalam. Membalik rompi dan bawahan sebelum dicuci membantu menjaga warna dan badge.
+3. Gunakan deterjen secukupnya. Deterjen berlebihan sulit dibilas dan bisa meninggalkan bekas.
+4. Hindari merendam terlalu lama, terutama untuk bagian berwarna.
+5. Bilas sampai bersih agar tidak ada sisa sabun yang membuat kain kaku.
 
 Bila memakai mesin cuci, pilih putaran yang lembut dan masukkan topi atau dasi ke dalam kantong cucian agar bentuknya terjaga.
 
@@ -33,19 +33,19 @@ Bila memakai mesin cuci, pilih putaran yang lembut dan masukkan topi atau dasi k
 
 Anak TK banyak bermain, makan, dan mewarnai di sekolah. Beberapa noda yang sering ditemui:
 
-- **Noda makanan dan minuman:** bilas dengan air bersih secepatnya, lalu cuci seperti biasa.
-- **Noda tanah atau lumpur:** biarkan mengering, sikat perlahan sisa tanahnya, lalu cuci.
-- **Noda krayon atau spidol:** kerjakan sebelum dicuci bersama pakaian lain agar tidak menyebar.
-- **Kerah dan ketiak menguning:** gosok perlahan bagian tersebut dengan sabun sebelum mencuci.
+- Noda makanan dan minuman: bilas dengan air bersih secepatnya, lalu cuci seperti biasa.
+- Noda tanah atau lumpur: biarkan mengering, sikat perlahan sisa tanahnya, lalu cuci.
+- Noda krayon atau spidol: kerjakan sebelum dicuci bersama pakaian lain agar tidak menyebar.
+- Kerah dan ketiak menguning: gosok perlahan bagian tersebut dengan sabun sebelum mencuci.
 
-Kunci utamanya adalah tidak menunda. Noda yang dibiarkan berhari-hari jauh lebih sulit dihilangkan.
+Jangan menunda. Noda yang dibiarkan berhari-hari jauh lebih sulit dihilangkan.
 
 ## Cara menjemur yang benar
 
-- **Jemur di tempat teduh** yang tetap berangin. Sinar matahari langsung yang terlalu lama bisa memudarkan warna biru.
-- **Gunakan hanger untuk kemeja dan rompi** agar bentuknya terjaga dan tidak terlalu kusut.
-- **Jepit rok dan celana di bagian pinggang**, bukan di bagian bawah.
-- **Angkat setelah kering**, jangan dibiarkan terlalu lama di jemuran.
+- Jemur di tempat teduh yang tetap berangin. Sinar matahari langsung yang terlalu lama bisa memudarkan warna biru.
+- Gunakan hanger untuk kemeja dan rompi agar bentuknya terjaga dan tidak terlalu kusut.
+- Jepit rok dan celana di bagian pinggang, bukan di bagian bawah.
+- Angkat setelah kering, jangan dibiarkan terlalu lama di jemuran.
 
 ## Cara menyetrika seragam TK
 
@@ -57,20 +57,20 @@ Kunci utamanya adalah tidak menunda. Noda yang dibiarkan berhari-hari jauh lebih
 
 ## Kebiasaan sehari-hari yang membuat seragam awet
 
-- **Siapkan lebih dari satu set** bila seragam dipakai beberapa hari dalam seminggu, sehingga ada waktu mencuci dan mengeringkan.
-- **Gunakan celemek saat kegiatan mewarnai** atau makan di sekolah, bila tersedia.
-- **Ganti seragam setelah pulang sekolah** agar tidak kotor saat bermain di rumah.
-- **Tulis nama anak di bagian dalam** agar seragam tidak tertukar.
+- Siapkan lebih dari satu set bila seragam dipakai beberapa hari dalam seminggu, sehingga ada waktu mencuci dan mengeringkan.
+- Gunakan celemek saat kegiatan mewarnai atau makan di sekolah, bila tersedia.
+- Ganti seragam setelah pulang sekolah agar tidak kotor saat bermain di rumah.
+- Tulis nama anak di bagian dalam agar seragam tidak tertukar.
 
 ## Menyimpan seragam dengan benar
 
 Penyimpanan yang benar membuat seragam tetap rapi saat akan dipakai dan tidak cepat rusak:
 
-- **Gantung kemeja dan rompi** setelah disetrika agar tidak kusut kembali.
-- **Lipat rok dengan mengikuti lipitannya**, atau gantung dengan penjepit di bagian pinggang.
-- **Simpan dasi dan topi di satu tempat**, misalnya kotak kecil atau gantungan khusus, agar tidak tercecer.
-- **Pastikan seragam benar-benar kering** sebelum disimpan di lemari, untuk menghindari bau apek.
-- **Pisahkan seragam bersih dan kotor**, terutama bila seragam dipakai beberapa hari berturut-turut.
+- Gantung kemeja dan rompi setelah disetrika agar tidak kusut kembali.
+- Lipat rok dengan mengikuti lipitannya, atau gantung dengan penjepit di bagian pinggang.
+- Simpan dasi dan topi di satu tempat, misalnya kotak kecil atau gantungan khusus, agar tidak tercecer.
+- Pastikan seragam benar-benar kering sebelum disimpan di lemari, untuk menghindari bau apek.
+- Pisahkan seragam bersih dan kotor, terutama bila seragam dipakai beberapa hari berturut-turut.
 
 Siapkan seragam untuk keesokan hari sejak malam sebelumnya. Kebiasaan ini membuat pagi lebih tenang dan memberi kesempatan memeriksa apakah ada kancing yang longgar atau noda yang terlewat.
 
@@ -89,10 +89,7 @@ Bila sekolah perlu memesan seragam pengganti atau tambahan, informasinya ada di 
 
 ## Informasi pemesanan di Konveksi Hasan
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Contoh model seragam ada di bagian [produk](/#produk). Baca juga [seragam TK biru putih](/blog/seragam-tk-biru-putih/) untuk tips menjaga warna antarangkatan.
 

@@ -6,15 +6,15 @@ seo_title: Seragam TK Laki-laki dan Perempuan: Bedanya
 keyword: seragam tk laki laki
 ---
 
-Seragam TK laki-laki dan perempuan umumnya memakai atasan yang sama, yaitu kemeja putih dengan rompi berbadge TK, dan dibedakan pada bawahan: celana pendek untuk laki-laki dan rok lipit untuk perempuan. Sebagian sekolah juga membedakan dasinya. Perbedaan kecil ini penting saat memesan, karena jumlah tiap jenis harus dihitung terpisah. Artikel ini membahas perbedaannya dan cara memesan dengan rapi.
+Seragam TK laki-laki dan perempuan umumnya memakai atasan yang sama, yaitu kemeja putih dengan rompi berbadge TK, dan dibedakan pada bawahan: celana pendek untuk laki-laki dan rok lipit untuk perempuan. Sebagian sekolah juga membedakan dasinya. Perbedaan kecil ini penting saat memesan, karena jumlah tiap jenis harus dihitung terpisah.
 
 ## Bagian yang sama untuk semua anak
 
 Pada model seragam nasional TK, sebagian besar komponen sama untuk laki-laki dan perempuan:
 
-- **Kemeja putih lengan pendek.**
-- **Rompi biru dengan badge TK.**
-- **Topi putih-biru.**
+- Kemeja putih lengan pendek.
+- Rompi biru dengan badge TK.
+- Topi putih-biru.
 
 Kesamaan ini membuat seluruh kelas tetap terlihat kompak walaupun bawahannya berbeda.
 
@@ -43,10 +43,10 @@ Ada sekolah yang memakai dasi kupu-kupu untuk perempuan dan dasi biasa untuk lak
 
 Kesalahan yang sering terjadi adalah jumlah celana dan rok tidak sesuai dengan jumlah siswa sebenarnya. Untuk menghindarinya:
 
-1. **Rekap jumlah siswa per kelas**, lalu pisahkan laki-laki dan perempuan.
-2. **Hitung komponen yang sama** (kemeja, rompi, topi) berdasarkan total siswa.
-3. **Hitung komponen yang berbeda** (celana, rok, jenis dasi) berdasarkan jumlah masing-masing.
-4. **Cocokkan dengan rekap ukuran**, karena ukuran celana dan rok dicatat terpisah.
+1. Rekap jumlah siswa per kelas, lalu pisahkan laki-laki dan perempuan.
+2. Hitung komponen yang sama (kemeja, rompi, topi) berdasarkan total siswa.
+3. Hitung komponen yang berbeda (celana, rok, jenis dasi) berdasarkan jumlah masing-masing.
+4. Cocokkan dengan rekap ukuran, karena ukuran celana dan rok dicatat terpisah.
 
 Contoh rekap sederhana untuk satu kelas:
 
@@ -63,10 +63,10 @@ Panduan mencatat ukuran setiap anak ada di artikel [cara mengukur ukuran seragam
 
 ## Tips agar satu kelas tetap kompak
 
-- **Samakan warna bawahan** dengan rompi agar celana dan rok terlihat satu set.
-- **Samakan panjang** rok dan celana dalam satu kelas sesuai aturan sekolah.
-- **Pesan dalam satu kali produksi** agar warna seluruh seragam tetap sama.
-- **Simpan rekap per jenis** untuk memudahkan pengecekan saat seragam dibagikan.
+- Samakan warna bawahan dengan rompi agar celana dan rok terlihat satu set.
+- Samakan panjang rok dan celana dalam satu kelas sesuai aturan sekolah.
+- Pesan dalam satu kali produksi agar warna seluruh seragam tetap sama.
+- Simpan rekap per jenis untuk memudahkan pengecekan saat seragam dibagikan.
 
 ## Mengukur bawahan untuk laki-laki dan perempuan
 
@@ -98,10 +98,7 @@ Apa pun jenis bawahannya, kenyamanan anak tetap utama:
 
 ## Informasi pemesanan di Konveksi Hasan
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Baca juga [seragam TK nasional](/blog/seragam-tk-nasional/) untuk mengenal semua komponennya, dan [kapan waktu terbaik pesan seragam TK](/blog/waktu-pesan-seragam-tk/) untuk menyusun jadwal.
 

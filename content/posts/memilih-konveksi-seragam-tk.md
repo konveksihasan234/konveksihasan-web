@@ -6,7 +6,7 @@ seo_title: Tips Memilih Konveksi Seragam TK untuk Sekolah
 keyword: konveksi seragam tk
 ---
 
-Memilih konveksi seragam TK sebaiknya dilakukan dengan memeriksa lima hal: contoh model yang jelas, harga dan minimal order yang transparan, waktu produksi yang realistis, komunikasi yang mudah, dan kejelasan proses dari pemesanan sampai seragam diterima. Seragam dipakai anak hampir setiap hari selama satu tahun ajaran, jadi keputusan ini layak dipertimbangkan dengan teliti. Artikel ini berisi checklist yang bisa dipakai kepala sekolah dan komite.
+Memilih konveksi seragam TK sebaiknya dilakukan dengan memeriksa lima hal: contoh model yang jelas, harga dan minimal order yang transparan, waktu produksi yang realistis, komunikasi yang mudah, dan kejelasan proses dari pemesanan sampai seragam diterima. Seragam dipakai anak hampir setiap hari selama satu tahun ajaran, jadi keputusan ini layak dipertimbangkan dengan teliti.
 
 ## 1. Periksa contoh model
 
@@ -27,7 +27,7 @@ Harga yang jelas sejak awal mencegah salah paham. Tanyakan:
 - komponen apa saja yang termasuk,
 - berapa minimal order.
 
-Sebagai gambaran, di Konveksi Hasan kisaran harganya Rp70.000–Rp100.000 per pcs dengan minimal order 25 pcs, dan harga pasti dikonfirmasi lewat WhatsApp. Faktor yang memengaruhi biaya dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/).
+Sebagai gambaran, di Konveksi Hasan kisaran harganya Rp70.000 sampai Rp100.000 per pcs dengan minimal order 25 pcs, dan harga pasti dikonfirmasi lewat WhatsApp. Faktor yang memengaruhi biaya dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/).
 
 ## 3. Tanyakan waktu produksi yang realistis
 
@@ -70,18 +70,18 @@ Gunakan tabel ini untuk membandingkan beberapa penawaran secara adil.
 
 ## Kesalahan yang sering terjadi saat memilih konveksi
 
-- **Hanya membandingkan harga** tanpa melihat isi penawaran dan waktu produksi.
-- **Memesan terlalu mepet** sehingga tidak ada waktu bila ada kendala.
-- **Tidak meminta konfirmasi tertulis** atas jumlah, ukuran, dan harga.
-- **Membagi satu angkatan ke beberapa konveksi**, sehingga warna dan model bisa berbeda.
+- Hanya membandingkan harga tanpa melihat isi penawaran dan waktu produksi.
+- Memesan terlalu mepet sehingga tidak ada waktu bila ada kendala.
+- Tidak meminta konfirmasi tertulis atas jumlah, ukuran, dan harga.
+- Membagi satu angkatan ke beberapa konveksi, sehingga warna dan model bisa berbeda.
 
 ## Membangun kerja sama jangka panjang
 
 Seragam TK dipesan hampir setiap tahun, terutama untuk siswa baru. Bekerja sama dengan konveksi yang sama dari tahun ke tahun memiliki beberapa keuntungan:
 
-- **Model dan warna lebih konsisten** antarangkatan.
-- **Proses lebih cepat**, karena konveksi sudah memahami kebutuhan sekolah.
-- **Komunikasi lebih mudah**, karena kedua pihak sudah mengenal alur kerja masing-masing.
+- Model dan warna lebih konsisten antarangkatan.
+- Proses lebih cepat, karena konveksi sudah memahami kebutuhan sekolah.
+- Komunikasi lebih mudah, karena kedua pihak sudah mengenal alur kerja masing-masing.
 
 Agar kerja sama berjalan baik, sekolah bisa:
 
@@ -105,11 +105,7 @@ Panduan menyusun anggaran ada di artikel [anggaran seragam TK](/blog/anggaran-se
 
 ## Informasi Konveksi Hasan
 
-- **Produk:** seragam nasional TK (kemeja putih, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, topi putih-biru).
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Produk kami: seragam nasional TK (kemeja putih, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, topi putih-biru). Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 ## Tanya jawab seputar memilih konveksi seragam TK
 

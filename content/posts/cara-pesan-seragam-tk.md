@@ -1,12 +1,12 @@
 ---
 title: Cara Pesan Seragam TK untuk Sekolah: Minimal Order, Harga, dan Lama Produksi
-description: Panduan memesan seragam nasional TK di Konveksi Hasan, mulai dari minimal order 25 pcs, kisaran harga Rp70–100 ribu, sampai waktu produksi 3 minggu–1 bulan.
+description: Cara memesan seragam nasional TK di Konveksi Hasan: minimal order 25 pcs, harga Rp70-100 ribu per pcs, dan lama produksi 3 minggu sampai 1 bulan.
 date: 2026-11-12
 seo_title: Cara Pesan Seragam TK: Min. Order, Harga, Produksi
 keyword: pesan seragam tk
 ---
 
-Memesan seragam TK untuk satu kelas atau satu sekolah lebih lancar kalau tiga hal sudah jelas sejak awal: **berapa jumlahnya, berapa anggarannya, dan kapan seragam harus sudah dipakai**. Artikel ini merangkum cara pesan seragam nasional TK di Konveksi Hasan beserta angka-angka yang perlu kamu siapkan.
+Memesan seragam TK untuk satu kelas atau satu sekolah lebih lancar kalau tiga hal sudah jelas sejak awal: **berapa jumlahnya, berapa anggarannya, dan kapan seragam harus sudah dipakai**.
 
 ## Ringkasan pesanan
 
@@ -14,8 +14,8 @@ Memesan seragam TK untuk satu kelas atau satu sekolah lebih lancar kalau tiga ha
 |---|---|
 | Model | Seragam nasional TK |
 | Minimal order | 25 pcs |
-| Kisaran harga | Rp70.000 – Rp100.000 per pcs |
-| Lama produksi | 3 minggu – 1 bulan, tergantung antrean |
+| Kisaran harga | Rp70.000 sampai Rp100.000 per pcs |
+| Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean |
 | Cara pesan | WhatsApp 0812-8765-8415 |
 
 ## Berapa minimal order seragam TK?
@@ -44,10 +44,10 @@ Sebagai patokan, hitung mundur dari hari pertama seragam dipakai:
 
 ## Langkah memesan
 
-1. **Chat WhatsApp** ke 0812-8765-8415. Sebutkan nama sekolah, perkiraan jumlah siswa, dan kapan seragam dibutuhkan.
-2. **Terima penawaran** berisi harga, pilihan ukuran, dan estimasi tanggal selesai.
-3. **Kirim rekap ukuran** per siswa dan konfirmasi pesanan.
-4. **Pesanan diproduksi** lalu diserahkan ke sekolah setelah selesai.
+1. Chat WhatsApp ke 0812-8765-8415. Sebutkan nama sekolah, perkiraan jumlah siswa, dan kapan seragam dibutuhkan.
+2. Terima penawaran berisi harga, pilihan ukuran, dan estimasi tanggal selesai.
+3. Kirim rekap ukuran per siswa dan konfirmasi pesanan.
+4. Pesanan diproduksi lalu diserahkan ke sekolah setelah selesai.
 
 ## Yang perlu disiapkan sebelum menghubungi kami
 

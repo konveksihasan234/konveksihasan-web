@@ -6,7 +6,7 @@ seo_title: Perlengkapan Seragam TK: Rompi, Dasi, Badge, Topi
 keyword: perlengkapan seragam tk
 ---
 
-Selain kemeja dan bawahan, perlengkapan seragam TK yang umum adalah rompi, badge sekolah, dasi atau dasi kupu-kupu, dan topi. Perlengkapan inilah yang membuat seragam terlihat lengkap dan rapi, tetapi juga yang paling sering tertinggal, hilang, atau rusak. Artikel ini membahas fungsi setiap perlengkapan dan tips memilih yang praktis untuk anak usia TK.
+Selain kemeja dan bawahan, perlengkapan seragam TK yang umum adalah rompi, badge sekolah, dasi atau dasi kupu-kupu, dan topi. Perlengkapan inilah yang membuat seragam terlihat lengkap dan rapi, tetapi juga yang paling sering tertinggal, hilang, atau rusak.
 
 ## Daftar perlengkapan seragam TK
 
@@ -45,8 +45,8 @@ Saat merawat seragam, hindari menyetrika langsung di atas badge. Balik rompi dan
 
 Dasi memberi kesan resmi pada seragam. Ada dua pilihan yang umum:
 
-- **Dasi biasa**, sering dipakai untuk anak laki-laki atau untuk semua anak.
-- **Dasi kupu-kupu**, sering dipilih untuk anak perempuan.
+- Dasi biasa, sering dipakai untuk anak laki-laki atau untuk semua anak.
+- Dasi kupu-kupu, sering dipilih untuk anak perempuan.
 
 Untuk anak TK, pilih dasi yang mudah dipasang dan dilepas tanpa perlu diikat. Anak yang bisa memakai dasinya sendiri akan lebih percaya diri dan tidak bergantung pada guru setiap pagi. Pembahasan perbedaan seragam laki-laki dan perempuan ada di artikel [seragam TK laki-laki dan perempuan](/blog/seragam-tk-laki-laki-perempuan/).
 
@@ -54,9 +54,9 @@ Untuk anak TK, pilih dasi yang mudah dipasang dan dilepas tanpa perlu diikat. An
 
 Topi melengkapi seragam saat upacara atau kegiatan di luar kelas. Beberapa hal yang perlu diperhatikan:
 
-- **Ukuran lingkar kepala.** Ukur melewati dahi bagian atas dan bagian belakang kepala yang paling menonjol.
-- **Perawatan bentuk.** Cuci dengan lembut dan keringkan dengan bentuk yang tetap terjaga.
-- **Penyimpanan.** Sarankan anak menyimpan topi di tas agar tidak tertinggal.
+- Ukuran lingkar kepala. Ukur melewati dahi bagian atas dan bagian belakang kepala yang paling menonjol.
+- Perawatan bentuk. Cuci dengan lembut dan keringkan dengan bentuk yang tetap terjaga.
+- Penyimpanan. Sarankan anak menyimpan topi di tas agar tidak tertinggal.
 
 Bila sekolah jarang memakai topi, sekolah bisa mempertimbangkan apakah topi perlu ikut dipesan.
 
@@ -73,10 +73,10 @@ Dasi dan topi adalah perlengkapan yang paling sering hilang atau tertukar. Cara 
 
 Usia TK adalah masa anak belajar mandiri. Perlengkapan seragam bisa menjadi latihan sederhana:
 
-1. **Latihan memasang dasi.** Tunjukkan cara memasang dasi di depan cermin, lalu biarkan anak mencoba sendiri.
-2. **Latihan mengancingkan rompi.** Mulai dari kancing paling bawah agar anak mudah melihat pasangannya.
-3. **Rutinitas topi.** Biasakan anak memasukkan topi ke tas setelah kegiatan di luar kelas.
-4. **Pujian kecil.** Beri pujian saat anak berhasil memakai perlengkapannya sendiri.
+1. Latihan memasang dasi. Tunjukkan cara memasang dasi di depan cermin, lalu biarkan anak mencoba sendiri.
+2. Latihan mengancingkan rompi. Mulai dari kancing paling bawah agar anak mudah melihat pasangannya.
+3. Rutinitas topi. Biasakan anak memasukkan topi ke tas setelah kegiatan di luar kelas.
+4. Pujian kecil. Beri pujian saat anak berhasil memakai perlengkapannya sendiri.
 
 Guru bisa menyisipkan latihan ini dalam kegiatan kelas, misalnya saat persiapan upacara. Orang tua juga bisa melanjutkannya di rumah setiap pagi.
 
@@ -94,10 +94,7 @@ Saat meminta penawaran, sebutkan secara rinci perlengkapan apa saja yang dibutuh
 
 ## Informasi pemesanan di Konveksi Hasan
 
-- **Minimal order:** 25 pcs.
-- **Kisaran harga:** Rp70.000–Rp100.000 per pcs; harga pasti via WhatsApp.
-- **Lama produksi:** 3 minggu hingga 1 bulan, tergantung antrean order.
-- **Kontak:** WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Langkah pemesanan lengkap ada di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/).
 
