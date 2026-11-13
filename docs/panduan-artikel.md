@@ -45,7 +45,7 @@ keyword: keyword utama
 ```
 
 Isi (Markdown):
-- 900–1.400 kata.
+- 750–1.400 kata. Utamakan isi yang berguna, jangan menambah kalimat hanya untuk memenuhi jumlah kata.
 - Paragraf pembuka 2–3 kalimat yang langsung menjawab inti pertanyaan pembaca.
 - 4–7 subjudul `##` (boleh `###` di bawahnya). Jangan memakai `#` (H1 sudah dari title).
 - Minimal satu tabel atau daftar bernomor/berpoin yang benar-benar berguna.
@@ -60,6 +60,12 @@ Isi (Markdown):
 3. `python3 tools/seo_check.py` harus lolos (0 masalah). Bila gagal, perbaiki artikel; jangan mengubah aturan cek.
 4. Commit semua perubahan (artikel + file hasil build) ke `main`, lalu push.
 5. Cron Job di cPanel menarik dan men-deploy dalam ≤ 15 menit.
+
+## Artikel yang sudah ditulis lebih dulu
+
+Artikel boleh ditulis lebih awal dengan `date` di masa depan. `tools/build.py` hanya menerbitkan artikel dengan tanggal hari ini (WIB) atau sebelumnya, jadi artikel itu baru tayang setelah build pada tanggalnya. Run terjadwal pada tanggal tersebut cukup menjalankan build, cek SEO, commit, dan push.
+
+Jadwal yang sudah terisi: 14, 16, 17, 19, 21, 23, 24, 26, 28, dan 30 November 2026.
 
 ## Ide topik awal (riset keyword tetap wajib sebelum memilih)
 

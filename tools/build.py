@@ -13,10 +13,12 @@ Butuh:  pip install markdown
 import hashlib
 import html
 import json
+import os
 import re
 from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 import markdown
 
@@ -320,7 +322,9 @@ def tulis(path_url: str, isi: str):
 
 
 def main():
-    hari_ini = date.today()
+    # tanggal hari ini menurut WIB; BUILD_DATE=YYYY-MM-DD hanya untuk uji coba lokal
+    hari_ini = (datetime.strptime(os.environ["BUILD_DATE"], "%Y-%m-%d").date() if os.environ.get("BUILD_DATE")
+                else datetime.now(ZoneInfo("Asia/Jakarta")).date())
     semua = [baca_post(p) for p in sorted((ROOT / "content/posts").glob("*.md"))]
     # hanya terbitkan artikel berstatus publish dan bertanggal hari ini atau sebelumnya
     posts = sorted([p for p in semua if p["status"] == "publish" and p["date"] <= hari_ini],
@@ -407,6 +411,14 @@ def main():
     tulis("/blog/", layout(title=f"Blog Seragam TK: Panduan Pesan & Ukuran | {NAMA}"[:60].rstrip(" |"),
                            description="Kumpulan panduan seragam TK dari Konveksi Hasan: cara pesan untuk sekolah, minimal order, harga, pilihan ukuran, dan tips merawat seragam anak.",
                            path="/blog/", body=blog_body, aktif="blog", jsonld=blog_ld))
+
+    # hapus folder artikel lama yang tidak (lagi) terbit, mis. hasil uji coba BUILD_DATE
+    terbit = {p["slug"] for p in posts}
+    for folder in (ROOT / "blog").iterdir():
+        if folder.is_dir() and folder.name not in terbit:
+            for f in folder.iterdir():
+                f.unlink()
+            folder.rmdir()
 
     # halaman artikel
     for p in posts:
