@@ -272,8 +272,17 @@ p { margin: 0 0 1em; }
   .hero { padding-top: 32px; }
   .alasan, .daftar-artikel, .langkah, .kaki-grid { grid-template-columns: 1fr; }
   .bagian { padding: 56px 0; }
-  .label-gantung { width: 200px; left: 0; }
-  .label-gantung .lg-harga { font-size: 1.45rem; }
+}
+
+/* Layar kecil: label gantung pindah ke bawah ilustrasi, tidak menutupi baju */
+@media (max-width: 900px) {
+  .hero-gambar { display: flex; flex-direction: column; align-items: center; }
+  .hero-gambar .baju { max-width: 340px; margin: 0 auto; }
+  .label-gantung {
+    position: relative; left: auto; bottom: auto;
+    width: min(100%, 280px); margin-top: -28px;
+  }
+  .label-gantung .lg-harga { font-size: 1.7rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
