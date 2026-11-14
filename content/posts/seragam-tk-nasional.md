@@ -64,8 +64,6 @@ Semakin lengkap data yang dikirim, semakin cepat penawaran bisa disusun. Siapkan
 
 ## Minimal order, harga, dan waktu produksi
 
-Di Konveksi Hasan, informasi dasarnya sebagai berikut:
-
 Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Karena produksi membutuhkan beberapa minggu, sebaiknya pesanan dikirim jauh sebelum seragam dipakai, terutama menjelang tahun ajaran baru ketika banyak sekolah memesan pada waktu yang sama.
