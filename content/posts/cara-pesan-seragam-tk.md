@@ -4,6 +4,8 @@ description: Cara memesan seragam nasional TK di Konveksi Hasan: minimal order 2
 date: 2026-11-12
 seo_title: Cara Pesan Seragam TK: Min. Order, Harga, Produksi
 keyword: pesan seragam tk
+foto: produk.webp
+foto_isi: seragam-tk-1.webp
 ---
 
 Memesan seragam TK untuk satu kelas atau satu sekolah lebih lancar kalau tiga hal sudah jelas sejak awal: **berapa jumlahnya, berapa anggarannya, dan kapan seragam harus sudah dipakai**.

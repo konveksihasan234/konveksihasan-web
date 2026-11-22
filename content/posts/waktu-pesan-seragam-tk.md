@@ -4,6 +4,8 @@ description: Hitung mundur kapan sekolah sebaiknya memesan seragam TK agar siap 
 date: 2026-11-21
 seo_title: Kapan Waktu Terbaik Pesan Seragam TK?
 keyword: kapan pesan seragam tk
+foto: video-9.webp
+foto_isi: seragam-tk-2.webp
 ---
 
 Waktu terbaik memesan seragam TK adalah jauh sebelum seragam dipakai, idealnya dua sampai tiga bulan sebelum tahun ajaran baru. Produksi di Konveksi Hasan memakan waktu 3 minggu hingga 1 bulan tergantung antrean, dan sekolah juga butuh waktu untuk mengumpulkan data siswa serta ukuran.

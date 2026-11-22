@@ -4,6 +4,8 @@ description: Panduan menyiapkan seragam PAUD nasional untuk PAUD, kelompok berma
 date: 2026-11-17
 seo_title: Seragam PAUD Nasional: Panduan untuk Sekolah
 keyword: seragam paud nasional
+foto: seragam-tk-3.webp
+foto_isi: video-8.webp
 ---
 
 Seragam PAUD nasional umumnya memakai model yang sama dengan seragam TK nasional, yaitu kemeja putih, rompi berwarna dengan badge, dasi, bawahan, dan topi, hanya saja dipakai oleh anak yang lebih kecil. Karena itu, pengadaannya perlu memperhatikan ukuran yang lebih beragam, jumlah siswa per kelompok yang sering kecil, dan kenyamanan anak yang baru pertama kali bersekolah.

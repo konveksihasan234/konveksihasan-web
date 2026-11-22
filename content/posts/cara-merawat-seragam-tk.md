@@ -4,6 +4,8 @@ description: Tips merawat seragam TK dari mencuci, menghilangkan noda, menjemur,
 date: 2026-11-26
 seo_title: Cara Merawat Seragam TK agar Awet dan Tetap Putih
 keyword: cara merawat seragam tk
+foto: video-6.webp
+foto_isi: video-11.webp
 ---
 
 Merawat seragam TK agar awet pada dasarnya bergantung pada tiga kebiasaan: mencuci kemeja putih terpisah dari bagian berwarna, tidak menunda membersihkan noda, dan menjemur di tempat teduh. Seragam anak TK dipakai berulang kali dan sering terkena makanan, krayon, atau tanah, sehingga perawatan yang benar membuatnya tetap layak dipakai sepanjang tahun ajaran.

@@ -4,6 +4,8 @@ description: Kenali komponen seragam TK nasional dari kemeja, rompi, dasi, bawah
 date: 2026-11-14
 seo_title: Seragam TK Nasional: Komponen dan Panduan Pengadaan
 keyword: seragam tk nasional
+foto: seragam-tk-1.webp
+foto_isi: produk.webp
 ---
 
 Seragam TK nasional adalah seragam harian yang dipakai banyak taman kanak-kanak di Indonesia, umumnya berupa kemeja putih dengan rompi berwarna, dilengkapi dasi, bawahan, dan topi. Bagi sekolah, memahami komponennya sejak awal membuat pengadaan lebih rapi: jumlah pesanan jelas, anggaran terukur, dan seragam siap tepat waktu.

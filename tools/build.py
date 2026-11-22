@@ -21,6 +21,9 @@ from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 import markdown
+from PIL import Image
+
+import cover
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = "https://konveksihasan.com"
@@ -214,6 +217,10 @@ def baca_post(p: Path):
     meta["slug"] = meta.get("slug") or p.stem
     meta["isi_html"] = markdown.markdown(m.group(2), extensions=["tables", "sane_lists"])
     meta["status"] = meta.get("status", "publish")
+    # foto asli untuk sampul dan untuk di dalam artikel (lihat assets/img/foto/katalog.json)
+    meta["foto"] = cover.pilih_foto(meta["slug"], meta.get("foto"))
+    meta["foto_isi"] = cover.pilih_foto(meta["slug"] + "-isi", meta.get("foto_isi"), kecuali=(meta["foto"],))
+    meta["sampul"] = f"/assets/img/blog/{meta['slug']}.jpg"
     # judul untuk <title>: pakai seo_title bila ada, tambah nama merek bila masih <= 60 karakter
     dasar = meta.get("seo_title") or meta["title"]
     dengan_merek = f"{dasar} | {NAMA}"
@@ -224,6 +231,7 @@ def baca_post(p: Path):
 def kartu_post(post, h="h3"):
     return (
         f'<li class="artikel-item"><a href="/blog/{post["slug"]}/">'
+        f'<img class="artikel-thumb" src="{post["sampul"]}" alt="{esc(cover.katalog()[post["foto"]])}" width="1200" height="630" loading="lazy">'
         f'<time datetime="{post["date"].isoformat()}">{tanggal_id(post["date"])}</time>'
         f'<{h}>{esc(post["title"])}</{h}><p>{esc(post["description"])}</p></a></li>'
     )
@@ -233,6 +241,23 @@ def daftar_post(posts, h="h3"):
     if not posts:
         return '<p class="artikel-kosong">Artikel pertama segera terbit.</p>'
     return '<ul class="daftar-artikel">' + "".join(kartu_post(p, h) for p in posts) + "</ul>"
+
+
+def figur_foto(nama):
+    """<figure> berisi foto asli dari assets/img/foto beserta keterangan dari katalog."""
+    ket = cover.katalog()[nama]
+    with Image.open(ROOT / "assets/img/foto" / nama) as im:
+        w, h = im.size
+    return (f'<figure class="artikel-foto"><img src="/assets/img/foto/{nama}" alt="{esc(ket)}" '
+            f'width="{w}" height="{h}" loading="lazy"><figcaption>{esc(ket)}. Foto: Konveksi Hasan.</figcaption></figure>')
+
+
+def sisipkan_foto(isi_html, figur):
+    """Taruh foto sebelum subjudul (h2) kedua; bila tidak ada, di akhir isi."""
+    posisi = [m.start() for m in re.finditer(r"<h2[\s>]", isi_html)]
+    if len(posisi) >= 2:
+        return isi_html[:posisi[1]] + figur + "\n" + isi_html[posisi[1]:]
+    return isi_html + figur
 
 
 def halaman_post(post, semua_post):
@@ -248,7 +273,8 @@ def halaman_post(post, semua_post):
       <nav class="remah" aria-label="Remah roti"><a href="/">Beranda</a> / <a href="/blog/">Blog</a></nav>
       <h1>{esc(post['title'])}</h1>
       <p class="artikel-meta">Diterbitkan <time datetime="{post['date'].isoformat()}">{tanggal_id(post['date'])}</time> oleh Konveksi Hasan</p>
-      {post['isi_html']}
+      <figure class="artikel-sampul"><img src="{post['sampul']}" alt="{esc(post['title'])}" width="1200" height="630" fetchpriority="high"></figure>
+      {sisipkan_foto(post['isi_html'], figur_foto(post['foto_isi']))}
       <div class="kotak-cta">
         <p>Pesan seragam TK untuk sekolah Anda. Minimal order 25 pcs, kisaran Rp70.000 sampai Rp100.000 per pcs.</p>
         <a class="tombol tombol-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_ICON} Minta penawaran via WhatsApp</a>
@@ -269,7 +295,7 @@ def halaman_post(post, semua_post):
         "publisher": {"@type": "Organization", "name": NAMA, "url": SITE},
         "mainEntityOfPage": SITE + path,
         "inLanguage": "id-ID",
-        "image": SITE + "/assets/img/og-default.jpg",
+        "image": [SITE + post["sampul"], SITE + "/assets/img/foto/" + post["foto_isi"]],
         "keywords": post.get("keyword", ""),
     }, {
         "@context": "https://schema.org",
@@ -284,7 +310,7 @@ def halaman_post(post, semua_post):
              f'<meta property="article:author" content="{NAMA}">')
     return path, layout(title=post["page_title"], description=post["description"],
                         path=path, body=body, aktif="blog", jsonld=jsonld, og_type="article",
-                        og_alt=post["title"], extra_head=extra)
+                        og_alt=post["title"], extra_head=extra, og_image=SITE + post["sampul"])
 
 
 # ---------- foto produk ----------
@@ -420,6 +446,13 @@ def main():
                 f.unlink()
             folder.rmdir()
 
+    # sampul artikel (dibuat ulang tiap build; hasilnya sama selama judul dan foto sama)
+    for p in posts:
+        cover.buat(p["slug"], p["title"], p["foto"])
+    for f in (ROOT / "assets/img/blog").glob("*.jpg"):
+        if f.stem not in terbit:
+            f.unlink()
+
     # halaman artikel
     for p in posts:
         path, isi = halaman_post(p, posts)
@@ -443,8 +476,10 @@ def main():
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
           'xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
+    gambar_post = {f"{SITE}/blog/{p['slug']}/": [SITE + p["sampul"], f"{SITE}/assets/img/foto/{p['foto_isi']}"]
+                   for p in posts}
     for u, d in urls:
-        extra = ""
+        extra = "".join(f"<image:image><image:loc>{g}</image:loc></image:image>" for g in gambar_post.get(u, []))
         if u == SITE + "/":
             extra = "".join(f"<image:image><image:loc>{SITE}/assets/img/{g}</image:loc></image:image>"
                             for g in gambar_home)

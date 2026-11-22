@@ -256,6 +256,14 @@ p { margin: 0 0 1em; }
 .terkait h2 { font-size: var(--step-1); margin-top: 0; }
 .terkait ul { padding-left: 1.2em; }
 
+/* Gambar artikel */
+.artikel-sampul { margin: 0 0 28px; }
+.artikel-sampul img { width: 100%; height: auto; border-radius: 18px; display: block; }
+.artikel-foto { margin: 28px 0; }
+.artikel-foto img { width: 100%; max-width: 420px; height: auto; border-radius: 16px; display: block; }
+.artikel-foto figcaption { margin-top: 8px; font-size: var(--step--1); color: var(--tinta-2); }
+.artikel-thumb { width: 100%; height: auto; aspect-ratio: 1200 / 630; object-fit: cover; border-radius: 14px; margin-bottom: 12px; display: block; }
+
 /* ---------- Responsif ---------- */
 @media (max-width: 900px) {
   .hero .wadah, .spek { grid-template-columns: 1fr; }

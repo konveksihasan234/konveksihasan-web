@@ -4,6 +4,8 @@ description: Daftar perlengkapan seragam TK selain kemeja dan bawahan: rompi, ba
 date: 2026-11-28
 seo_title: Perlengkapan Seragam TK: Rompi, Dasi, Badge, Topi
 keyword: perlengkapan seragam tk
+foto: seragam-tk-4.webp
+foto_isi: video-5.webp
 ---
 
 Selain kemeja dan bawahan, perlengkapan seragam TK yang umum adalah rompi, badge sekolah, dasi atau dasi kupu-kupu, dan topi. Perlengkapan inilah yang membuat seragam terlihat lengkap dan rapi, tetapi juga yang paling sering tertinggal, hilang, atau rusak.

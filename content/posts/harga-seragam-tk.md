@@ -4,6 +4,8 @@ description: Berapa harga seragam TK? Simak kisaran harga per pcs di Konveksi Ha
 date: 2026-11-19
 seo_title: Harga Seragam TK: Kisaran dan Faktor Biayanya
 keyword: harga seragam tk
+foto: video-7.webp
+foto_isi: produk.webp
 ---
 
 Di Konveksi Hasan, harga seragam TK berada di kisaran Rp70.000 sampai Rp100.000 per pcs, dengan minimal order 25 pcs. Angka pastinya bergantung pada jumlah, ukuran, dan komponen yang dipesan, sehingga harga final selalu diberikan dalam bentuk penawaran.

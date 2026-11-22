@@ -54,6 +54,37 @@ Yang dijaga:
 
 Sebelum terbit, jalankan dua cek: `python3 tools/copy_check.py` (otomatis) lalu baca ulang dan jawab dua pertanyaan: "Bagian mana yang terdengar seperti tulisan mesin?" dan "Apakah ada fakta, nama, angka, atau tanggal yang tidak ada di tabel fakta bisnis?" Perbaiki sampai jawabannya "tidak ada".
 
+## Gambar artikel
+
+Setiap artikel otomatis mendapat dua gambar dari foto asli seragam Konveksi Hasan:
+
+1. Sampul 1200x630 berisi judul artikel dan satu foto, dibuat oleh `tools/cover.py` saat build. Sampul dipakai di atas artikel, di daftar blog, sebagai gambar saat link dibagikan (og:image), dan di schema.
+2. Satu foto di dalam artikel, otomatis diletakkan sebelum subjudul kedua, lengkap dengan keterangan.
+
+Pilih foto yang paling cocok dengan topik lewat frontmatter `foto` (sampul) dan `foto_isi` (di dalam artikel). Bila tidak diisi, build memilih sendiri. Jangan memakai gambar dari internet, gambar buatan AI, atau foto yang tidak ada di daftar ini, karena pembaca akan menganggapnya produk Konveksi Hasan.
+
+| File | Isi foto |
+|---|---|
+| `produk.webp` | Satu set seragam nasional TK putri: kemeja putih, rompi biru berbadge TK, dasi kupu-kupu, dan rok lipit |
+| `seragam-tk-1.webp` | Seragam TK putri dengan dasi, rok lipit, dan topi putih-biru |
+| `seragam-tk-2.webp` | Seragam TK putra dengan dasi, celana pendek, dan topi putih-biru |
+| `seragam-tk-3.webp` | Seragam TK putri dengan dasi kupu-kupu dan topi putih-biru |
+| `seragam-tk-4.webp` | Topi seragam TK putih-biru dengan logo TK |
+| `video-1.webp` | Rompi biru dan dasi pada seragam TK putri |
+| `video-2.webp` | Seragam TK dengan rompi biru, dasi, dan badge TK dilihat dari samping |
+| `video-3.webp` | Seragam TK putra: rompi biru, dasi, dan celana pendek |
+| `video-4.webp` | Detail rompi biru dan dasi seragam TK |
+| `video-5.webp` | Detail badge TK di dada rompi biru |
+| `video-6.webp` | Detail kerah kemeja putih dan rompi biru seragam TK |
+| `video-7.webp` | Seragam TK putri lengkap dengan topi, dasi, dan rok lipit |
+| `video-8.webp` | Seragam TK dengan dasi kupu-kupu dan badge TK |
+| `video-9.webp` | Seragam TK dengan dasi kupu-kupu dan topi putih-biru |
+| `video-10.webp` | Seragam TK putri dengan rompi biru, rok lipit, dan topi putih-biru |
+| `video-11.webp` | Rompi biru dan rok lipit seragam TK |
+| `video-12.webp` | Topi putih-biru dan rompi seragam TK |
+
+Foto baru dari Hasan disimpan di `assets/img/foto/` (format .webp) lalu ditambahkan ke `assets/img/foto/katalog.json` beserta keterangan yang sesuai isi foto.
+
 ## Format file
 
 Lokasi: `content/posts/<slug>.md`. Slug huruf kecil dengan tanda hubung, mengandung keyword utama, maksimal sekitar 6 kata.
@@ -65,6 +96,8 @@ description: 120–160 karakter, mengandung keyword, menjelaskan manfaat membaca
 date: YYYY-MM-DD (tanggal hari ini, zona Asia/Jakarta)
 seo_title: Judul untuk <title>, maksimal 60 karakter (opsional bila title sudah ≤ 47 karakter)
 keyword: keyword utama
+foto: nama file dari tabel Gambar artikel (opsional)
+foto_isi: nama file lain dari tabel yang sama (opsional)
 ---
 ```
 
@@ -79,7 +112,7 @@ Isi (Markdown):
 
 ## Alur terbit
 
-1. `pip install --break-system-packages -q markdown`
+1. `pip install --break-system-packages -q markdown pillow`
 2. `python3 tools/build.py`
 3. `python3 tools/seo_check.py` dan `python3 tools/copy_check.py` harus lolos (0 masalah). Bila gagal, perbaiki artikel; jangan mengubah aturan cek.
 4. Commit semua perubahan (artikel + file hasil build) ke `main`, lalu push.

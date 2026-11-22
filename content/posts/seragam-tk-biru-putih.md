@@ -4,6 +4,8 @@ description: Mengapa seragam TK biru putih banyak dipilih sekolah, cara menjaga 
 date: 2026-11-16
 seo_title: Seragam TK Biru Putih: Kelebihan dan Tips Merawat
 keyword: seragam tk biru putih
+foto: video-10.webp
+foto_isi: video-6.webp
 ---
 
 Seragam TK biru putih adalah kombinasi kemeja putih dengan rompi dan bawahan berwarna biru, salah satu model yang paling mudah dikenali sebagai seragam taman kanak-kanak. Warnanya tampak bersih, cerah, dan cocok untuk anak, tetapi ada dua hal yang perlu diperhatikan sekolah: menjaga warna biru tetap sama antarangkatan, dan menjaga bagian putih tetap bersih.

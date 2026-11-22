@@ -4,6 +4,8 @@ description: Kenali model seragam TK rompi mulai dari kemeja, rompi berbadge, da
 date: 2026-11-13
 seo_title: Model Seragam TK Rompi: Bagian dan Tips Memilih
 keyword: model seragam tk rompi
+foto: video-4.webp
+foto_isi: video-5.webp
 ---
 
 Model seragam TK rompi pada dasarnya terdiri dari kemeja putih yang dilapisi rompi berwarna, lalu dilengkapi dasi, bawahan, dan topi. Rompi membuat seragam terlihat rapi dan seragam satu kelas, sekaligus menjadi tempat badge sekolah.

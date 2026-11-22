@@ -4,6 +4,8 @@ description: Panduan menyusun anggaran seragam TK per kelas: menghitung kebutuha
 date: 2026-11-24
 seo_title: Cara Menyusun Anggaran Seragam TK per Kelas
 keyword: anggaran seragam tk
+foto: video-1.webp
+foto_isi: video-3.webp
 ---
 
 Anggaran seragam TK disusun dari tiga hal: jumlah siswa, komponen yang dipesan, dan harga per pcs. Dengan kisaran harga Konveksi Hasan Rp70.000 sampai Rp100.000 per pcs dan minimal order 25 pcs, sekolah sudah bisa membuat perkiraan awal sebelum meminta penawaran resmi.

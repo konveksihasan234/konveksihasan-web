@@ -4,6 +4,8 @@ description: Panduan menentukan ukuran seragam TK: cara mengukur badan anak, bag
 date: 2026-11-13
 seo_title: Ukuran Seragam TK: Cara Mengukur Badan Anak
 keyword: ukuran seragam tk
+foto: video-11.webp
+foto_isi: video-10.webp
 ---
 
 Menentukan ukuran seragam TK paling aman dilakukan dengan mengukur badan anak langsung memakai meteran kain, bukan menebak dari usia. Catat beberapa ukuran kunci seperti lingkar dada, panjang badan, lingkar pinggang, dan panjang bawahan, lalu cocokkan dengan pilihan ukuran yang tersedia di konveksi.

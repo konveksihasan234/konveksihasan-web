@@ -4,6 +4,8 @@ description: Apa beda seragam TK laki-laki dan perempuan? Simak perbedaan bawaha
 date: 2026-11-23
 seo_title: Seragam TK Laki-laki dan Perempuan: Bedanya
 keyword: seragam tk laki laki
+foto: seragam-tk-2.webp
+foto_isi: seragam-tk-1.webp
 ---
 
 Seragam TK laki-laki dan perempuan umumnya memakai atasan yang sama, yaitu kemeja putih dengan rompi berbadge TK, dan dibedakan pada bawahan: celana pendek untuk laki-laki dan rok lipit untuk perempuan. Sebagian sekolah juga membedakan dasinya. Perbedaan kecil ini penting saat memesan, karena jumlah tiap jenis harus dihitung terpisah.
