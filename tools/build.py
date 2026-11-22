@@ -138,7 +138,7 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
     <div class="kaki-grid">
       <div>
         <h3>Konveksi Hasan</h3>
-        <p>Konveksi seragam nasional untuk TK dan PAUD. Minimal order 25 pcs.</p>
+        <p>Konveksi seragam TK dan PAUD: nasional, muslim, olahraga, dan kotak-kotak. Minimal order 25 pcs.</p>
       </div>
       <div>
         <h3>Kontak</h3>
@@ -177,7 +177,7 @@ FAQ = [
     ("Berapa lama seragam selesai dibuat?",
      "Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order saat itu. Pesan lebih awal sebelum tahun ajaran baru supaya tidak terburu-buru."),
     ("Model seragam TK apa yang tersedia?",
-     "Seragam nasional TK: kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit untuk putri atau celana pendek untuk putra, dan topi putih-biru."),
+     "Seragam nasional TK (kemeja putih, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, topi putih-biru), seragam muslim, seragam PAUD, seragam olahraga, dan model kotak-kotak. Warna dan model bisa disesuaikan dengan seragam sekolah."),
     ("Ukuran apa saja yang tersedia?",
      "Tersedia beberapa pilihan ukuran. Kirim jumlah siswa per ukuran lewat WhatsApp, nanti kami bantu cocokkan."),
     ("Bagaimana cara memesan?",
@@ -374,7 +374,7 @@ def main():
         "name": NAMA,
         "url": SITE,
         "telephone": "+" + WA_NOMOR,
-        "description": "Konveksi seragam nasional untuk TK dan PAUD. Minimal order 25 pcs.",
+        "description": "Konveksi seragam TK dan PAUD: seragam nasional, muslim, olahraga, dan kotak-kotak. Minimal order 25 pcs.",
         "logo": SITE + "/assets/img/logo-512.png",
         "image": SITE + "/assets/img/og-default.jpg",
         "contactPoint": {"@type": "ContactPoint", "telephone": "+" + WA_NOMOR,
@@ -406,7 +406,7 @@ def main():
     }
     tulis("/", layout(
         title="Konveksi Seragam TK, Min. Order 25 pcs | Konveksi Hasan",
-        description="Konveksi seragam nasional TK dan PAUD. Harga Rp70 ribu sampai Rp100 ribu per pcs, minimal order 25 pcs, produksi 3 minggu sampai 1 bulan.",
+        description="Konveksi seragam TK dan PAUD: nasional, muslim, olahraga, kotak-kotak. Rp70 ribu sampai Rp100 ribu per pcs, minimal order 25 pcs.",
         path="/", body=home, aktif="beranda", jsonld=[org, website, produk, faq_jsonld(), video],
         og_alt="Contoh seragam nasional TK buatan Konveksi Hasan"))
 

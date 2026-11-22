@@ -151,6 +151,12 @@ p { margin: 0 0 1em; }
 .galeri-video { grid-row: span 2; border: 3px solid var(--biru); }
 .galeri figure:not(.galeri-video) { aspect-ratio: 4 / 5; }
 
+.galeri-model { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.galeri-model figure { margin: 0; }
+.galeri-model img { width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 18px; display: block; background: var(--biru-muda); }
+.galeri-model figcaption { margin-top: 8px; font-size: var(--step--1); color: var(--tinta-2); line-height: 1.4; }
+@media (max-width: 900px) { .galeri-model { grid-template-columns: 1fr 1fr; } }
+
 /* Lembar spesifikasi produk — seperti kartu order konveksi */
 .spek { display: grid; grid-template-columns: .9fr 1.1fr; gap: 48px; align-items: start; }
 .spek-ilustrasi { background: var(--biru-muda); border-radius: 28px; padding: 32px; }

@@ -11,10 +11,10 @@ Kepala sekolah TK/PAUD, guru, komite sekolah, dan orang tua yang mengurus pengad
 | Hal | Fakta |
 |---|---|
 | Nama | Konveksi Hasan |
-| Produk | Seragam nasional TK |
-| Contoh model | Kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit (putri) atau celana pendek (putra), topi putih-biru |
-| Harga | Kisaran Rp70.000 sampai Rp100.000 per pcs; harga pasti via WhatsApp |
-| Minimal order | 25 pcs |
+| Produk | Seragam TK dan PAUD: seragam nasional, seragam muslim (kerudung, peci), seragam PAUD, seragam olahraga, dan model kotak-kotak; warna dan model bisa disesuaikan dengan seragam sekolah |
+| Contoh model nasional | Kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit (putri) atau celana pendek (putra), topi putih-biru |
+| Harga | Kisaran Rp70.000 sampai Rp100.000 per pcs, berlaku juga untuk model lain; harga pasti via WhatsApp |
+| Minimal order | 25 pcs (semua model) |
 | Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean order |
 | Ukuran | Tersedia beberapa pilihan, detail via WhatsApp (JANGAN menulis daftar ukuran) |
 | Kontak | WhatsApp 0812-8765-8415 |
@@ -141,7 +141,7 @@ Isi (Markdown):
 
 Artikel boleh ditulis lebih awal dengan `date` di masa depan. `tools/build.py` hanya menerbitkan artikel dengan tanggal hari ini (WIB) atau sebelumnya, jadi artikel itu baru tayang setelah build pada tanggalnya. Run terjadwal pada tanggal tersebut cukup menjalankan build, cek SEO, commit, dan push.
 
-Jadwal yang sudah terisi: 14, 16, 17, 19, 21, 23, 24, 26, 28, dan 30 November 2026.
+Jadwal yang sudah terisi: 14, 16, 17, 19, 21, 23, 24, 26, 28, dan 30 November 2026, serta 3, 5, 7, dan 8 Desember 2026.
 
 ## Ide topik awal (riset keyword tetap wajib sebelum memilih)
 
