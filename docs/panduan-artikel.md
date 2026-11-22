@@ -82,6 +82,25 @@ Pilih foto yang paling cocok dengan topik lewat frontmatter `foto` (sampul) dan 
 | `video-10.webp` | Seragam TK putri dengan rompi biru, rok lipit, dan topi putih-biru |
 | `video-11.webp` | Rompi biru dan rok lipit seragam TK |
 | `video-12.webp` | Topi putih-biru dan rompi seragam TK |
+| `seragam-tk-muslim-putri-kotak-oranye.webp` | Seragam TK muslim putri motif kotak-kotak oranye dengan rok lipit dan kerudung oranye |
+| `seragam-tk-muslim-putra-kotak-oranye.webp` | Seragam TK muslim putra motif kotak-kotak oranye dengan celana panjang dan peci |
+| `seragam-paud-kuning-kerah-pelaut.webp` | Seragam PAUD kuning dengan kerah pelaut, dasi, dan celana panjang kotak-kotak merah |
+| `seragam-tk-muslim-putri-kotak-biru-muda.webp` | Seragam TK muslim putri kemeja kotak-kotak biru muda dengan rok dan kerudung biru |
+| `seragam-tk-rompi-kotak-biru-putri.webp` | Seragam TK putri: kemeja kotak-kotak biru muda, rompi biru berbadge TK, dasi kupu-kupu, dan rok lipit |
+| `seragam-tk-rompi-kotak-biru-putra.webp` | Seragam TK putra: kemeja kotak-kotak biru muda, rompi biru berbadge TK, dasi kupu-kupu, dan celana pendek |
+| `seragam-tk-rompi-lengan-panjang.webp` | Seragam TK kemeja lengan panjang biru muda dengan rompi biru dan celana panjang |
+| `seragam-paud-hijau-rok-kotak.webp` | Seragam PAUD kemeja hijau dengan dasi dan rok lipit kotak-kotak biru |
+| `seragam-paud-hijau-celana-kotak.webp` | Seragam PAUD kemeja hijau dengan dasi dan celana pendek kotak-kotak biru |
+| `seragam-tk-biru-muda-celana-kotak.webp` | Seragam TK kemeja biru muda dengan kerah kotak-kotak dan celana pendek kotak-kotak |
+| `seragam-tk-biru-muda-rok-kotak.webp` | Seragam TK kemeja biru muda dengan kerah kotak-kotak dan rok lipit kotak-kotak |
+| `seragam-tk-muslim-putra-kotak-biru.webp` | Seragam TK muslim putra kotak-kotak biru dengan peci dan celana panjang |
+| `seragam-olahraga-tk-merah-kuning.webp` | Seragam olahraga TK merah-kuning dengan celana training |
+| `seragam-olahraga-tk-muslim-merah-kuning.webp` | Seragam olahraga TK muslim merah-kuning dengan kerudung dan celana training |
+| `seragam-tk-muslim-putri-kotak-biru.webp` | Seragam TK muslim putri kotak-kotak biru dengan rok lipit dan kerudung biru |
+| `seragam-tk-muslim-putih-hijau.webp` | Seragam TK muslim putih-hijau dengan kerudung dan celana panjang hijau |
+| `seragam-tk-muslim-kuning-cokelat.webp` | Seragam TK muslim kuning lengan panjang dengan celana panjang cokelat |
+| `seragam-tk-putri-kotak-hijau-kerah-lebar.webp` | Seragam TK putri kotak-kotak hijau dengan kerah lebar, dasi kupu-kupu, dan rok lipit hijau |
+| `seragam-tk-merah-pita-kotak.webp` | Seragam TK merah dengan kerah dan pita kotak-kotak serta celana pendek kotak-kotak |
 
 Foto baru dari Hasan disimpan di `assets/img/foto/` (format .webp) lalu ditambahkan ke `assets/img/foto/katalog.json` beserta keterangan yang sesuai isi foto.
 
