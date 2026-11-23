@@ -83,7 +83,7 @@ Kombinasi biru putih juga banyak dipakai di PAUD dan kelompok bermain. Bila seko
 
 ## Informasi pemesanan di Konveksi Hasan
 
-Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Untuk memahami komponen seragam lebih lengkap, baca juga [seragam TK nasional](/blog/seragam-tk-nasional/) dan [model seragam TK rompi](/blog/model-seragam-tk-rompi/). Langkah pemesanan ada di bagian [cara pesan](/#cara-pesan).
 

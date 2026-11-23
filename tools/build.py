@@ -173,8 +173,8 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
 FAQ = [
     ("Berapa minimal order seragam TK?",
      "Minimal order 25 pcs. Jumlah ini biasanya setara satu sampai dua kelas TK."),
-    ("Berapa harga seragam TK per pcs?",
-     "Kisarannya Rp70.000 sampai Rp100.000 per pcs. Harga pastinya tergantung jumlah, ukuran, item yang dipesan, dan detail lainnya, jadi silakan tanya lewat WhatsApp."),
+    ("Berapa harga seragam TK per set?",
+     "Kisarannya Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Harga pastinya tergantung jumlah, ukuran, item yang dipesan, dan detail lainnya, jadi silakan tanya lewat WhatsApp."),
     ("Berapa lama seragam selesai dibuat?",
      "Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order saat itu. Pesan lebih awal sebelum tahun ajaran baru supaya tidak terburu-buru."),
     ("Model seragam TK apa yang tersedia?",
@@ -277,7 +277,7 @@ def halaman_post(post, semua_post):
       <figure class="artikel-sampul"><img src="{post['sampul']}" alt="{esc(post['title'])}" width="1200" height="630" fetchpriority="high"></figure>
       {sisipkan_foto(post['isi_html'], figur_foto(post['foto_isi']))}
       <div class="kotak-cta">
-        <p>Pesan seragam TK untuk sekolah Anda. Minimal order 25 pcs, kisaran Rp70.000 sampai Rp100.000 per pcs.</p>
+        <p>Pesan seragam TK untuk sekolah Anda. Minimal order 25 pcs, kisaran Rp70.000 sampai Rp100.000 per set (atasan dan bawahan).</p>
         <a class="tombol tombol-wa" href="{WA_LINK}" target="_blank" rel="noopener">{WA_ICON} Minta penawaran via WhatsApp</a>
       </div>
       <p class="artikel-balik">Lihat juga: <a href="/#produk">detail seragam nasional TK</a> dan <a href="/#cara-pesan">cara pesan</a>.</p>
@@ -417,7 +417,7 @@ def main():
     }
     tulis("/", layout(
         title="Konveksi Seragam TK, Min. Order 25 pcs | Konveksi Hasan",
-        description="Konveksi seragam TK dan PAUD: nasional, muslim, olahraga, kotak-kotak. Rp70 ribu sampai Rp100 ribu per pcs, minimal order 25 pcs.",
+        description="Konveksi seragam TK dan PAUD: nasional, muslim, olahraga, kotak-kotak. Rp70 ribu sampai Rp100 ribu per set, minimal order 25 pcs.",
         path="/", body=home, aktif="beranda", jsonld=[org, website, produk, faq_jsonld(), video],
         og_alt="Contoh seragam nasional TK buatan Konveksi Hasan"))
 

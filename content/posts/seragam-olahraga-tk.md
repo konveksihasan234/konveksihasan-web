@@ -81,7 +81,7 @@ Sampaikan pilihan ini kepada orang tua sejak awal, lalu catat jumlah set per ana
 
 ## Informasi pemesanan
 
-Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Kirim foto contoh seragam olahraga sekolah Anda lewat WhatsApp 0812-8765-8415, lalu kami balas dengan harga dan pilihan ukuran.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Kirim foto contoh seragam olahraga sekolah Anda lewat WhatsApp 0812-8765-8415, lalu kami balas dengan harga dan pilihan ukuran.
 
 ## Tanya jawab seputar seragam olahraga TK
 

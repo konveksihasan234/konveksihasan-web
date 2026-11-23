@@ -85,7 +85,7 @@ Tips merawat bagian seragam lainnya ada di artikel [cara merawat seragam TK](/bl
 
 ## Informasi pemesanan
 
-Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Kirim foto seragam yang dipakai sekolah Anda lewat WhatsApp 0812-8765-8415, lalu kami balas dengan harga dan pilihan ukuran.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Kirim foto seragam yang dipakai sekolah Anda lewat WhatsApp 0812-8765-8415, lalu kami balas dengan harga dan pilihan ukuran.
 
 ## Tanya jawab seputar seragam TK Islam
 

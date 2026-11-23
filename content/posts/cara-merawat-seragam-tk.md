@@ -91,7 +91,7 @@ Bila sekolah perlu memesan seragam pengganti atau tambahan, informasinya ada di 
 
 ## Informasi pemesanan di Konveksi Hasan
 
-Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Contoh model seragam ada di bagian [produk](/#produk). Baca juga [seragam TK biru putih](/blog/seragam-tk-biru-putih/) untuk tips menjaga warna antarangkatan.
 

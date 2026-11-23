@@ -91,7 +91,7 @@ Memesan di luar musim ramai biasanya membuat jadwal lebih fleksibel, walaupun la
 
 ## Informasi pemesanan di Konveksi Hasan
 
-Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
+Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 Detail biaya dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/), dan langkah pemesanan ada di bagian [cara pesan](/#cara-pesan).
 

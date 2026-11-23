@@ -98,7 +98,7 @@ Di Konveksi Hasan, seragam nasional TK tersedia dalam beberapa pilihan ukuran. D
 Beberapa hal lain yang perlu diketahui sebelum memesan:
 
 - Minimal order 25 pcs.
-- Kisaran harga Rp70.000 sampai Rp100.000 per pcs; harga pasti dikonfirmasi lewat WhatsApp.
+- Kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan); harga pasti dikonfirmasi lewat WhatsApp.
 - Lama produksi sekitar 3 minggu hingga 1 bulan, tergantung antrean order.
 
 Karena produksi membutuhkan waktu beberapa minggu, sebaiknya pengukuran dilakukan jauh sebelum seragam dibutuhkan. Langkah lengkap pemesanan bisa Anda baca di [cara pesan seragam TK](/blog/cara-pesan-seragam-tk/) atau bagian [cara pesan](/#cara-pesan) di beranda. Bila sekolah masih menimbang model, artikel [model seragam TK rompi](/blog/model-seragam-tk-rompi/) membahas bagian-bagiannya.

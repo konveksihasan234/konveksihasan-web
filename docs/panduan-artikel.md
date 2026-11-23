@@ -13,7 +13,7 @@ Kepala sekolah TK/PAUD, guru, komite sekolah, dan orang tua yang mengurus pengad
 | Nama | Konveksi Hasan |
 | Produk | Seragam TK dan PAUD: seragam nasional, seragam muslim (kerudung, peci), seragam PAUD, seragam olahraga, dan model kotak-kotak; warna dan model bisa disesuaikan dengan seragam sekolah |
 | Contoh model nasional | Kemeja putih lengan pendek, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit (putri) atau celana pendek (putra), topi putih-biru |
-| Harga | Kisaran Rp70.000 sampai Rp100.000 per pcs, berlaku juga untuk model lain; harga pasti via WhatsApp |
+| Harga | Kisaran Rp70.000 sampai Rp100.000 per set (atasan dan bawahan), berlaku juga untuk model lain; harga pasti via WhatsApp |
 | Minimal order | 25 pcs (semua model) |
 | Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean order |
 | Ukuran | Tersedia beberapa pilihan, detail via WhatsApp (JANGAN menulis daftar ukuran) |

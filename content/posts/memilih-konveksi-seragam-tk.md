@@ -29,7 +29,7 @@ Harga yang jelas sejak awal mencegah salah paham. Tanyakan:
 - komponen apa saja yang termasuk,
 - berapa minimal order.
 
-Sebagai gambaran, di Konveksi Hasan kisaran harganya Rp70.000 sampai Rp100.000 per pcs dengan minimal order 25 pcs, dan harga pasti dikonfirmasi lewat WhatsApp. Faktor yang memengaruhi biaya dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/).
+Sebagai gambaran, di Konveksi Hasan kisaran harganya Rp70.000 sampai Rp100.000 per set (atasan dan bawahan) dengan minimal order 25 pcs, dan harga pasti dikonfirmasi lewat WhatsApp. Faktor yang memengaruhi biaya dibahas di artikel [harga seragam TK](/blog/harga-seragam-tk/).
 
 ## 3. Tanyakan waktu produksi yang realistis
 
@@ -107,7 +107,7 @@ Panduan menyusun anggaran ada di artikel [anggaran seragam TK](/blog/anggaran-se
 
 ## Informasi Konveksi Hasan
 
-Produk kami: seragam nasional TK (kemeja putih, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, topi putih-biru). Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
+Produk kami: seragam nasional TK (kemeja putih, rompi biru dengan badge TK, dasi atau dasi kupu-kupu, rok lipit atau celana pendek, topi putih-biru). Di Konveksi Hasan, minimal order 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Produksi memakan waktu 3 minggu sampai 1 bulan, tergantung antrean order. Harga pasti dan pilihan ukuran kami kirim lewat WhatsApp 0812-8765-8415.
 
 ## Tanya jawab seputar memilih konveksi seragam TK
 

@@ -81,7 +81,7 @@ Setelah model disepakati, langkah berikutnya adalah menyiapkan pesanan. Urutan s
 4. Tentukan tanggal seragam harus sudah dipakai, lalu hitung mundur waktu pemesanan.
 5. Hubungi konveksi untuk konfirmasi harga, ukuran, dan jadwal produksi.
 
-Di Konveksi Hasan, minimal order seragam adalah 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per pcs. Harga pasti diinformasikan lewat WhatsApp sesuai model dan jumlah pesanan. Lama produksi sekitar 3 minggu hingga 1 bulan, tergantung antrean order, jadi sebaiknya pesan jauh sebelum seragam dibutuhkan. Langkah lengkapnya bisa Anda baca di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/) atau bagian [cara pesan](/#cara-pesan) di beranda.
+Di Konveksi Hasan, minimal order seragam adalah 25 pcs dengan kisaran harga Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Harga pasti diinformasikan lewat WhatsApp sesuai model dan jumlah pesanan. Lama produksi sekitar 3 minggu hingga 1 bulan, tergantung antrean order, jadi sebaiknya pesan jauh sebelum seragam dibutuhkan. Langkah lengkapnya bisa Anda baca di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/) atau bagian [cara pesan](/#cara-pesan) di beranda.
 
 Seragam tersedia dalam beberapa pilihan ukuran. Untuk detail ukuran yang cocok dengan anak-anak di sekolah Anda, silakan tanyakan langsung lewat WhatsApp 0812-8765-8415.
 
@@ -106,7 +106,7 @@ Komponen yang dipesan bisa didiskusikan sesuai kebutuhan sekolah. Sampaikan daft
 
 ### Berapa minimal order seragam rompi di Konveksi Hasan?
 
-Minimal order adalah 25 pcs. Harga berada di kisaran Rp70.000 sampai Rp100.000 per pcs, dengan harga pasti dikonfirmasi lewat WhatsApp.
+Minimal order adalah 25 pcs. Harga berada di kisaran Rp70.000 sampai Rp100.000 per set (atasan dan bawahan), dengan harga pasti dikonfirmasi lewat WhatsApp.
 
 ### Berapa lama seragam rompi selesai dibuat?
 

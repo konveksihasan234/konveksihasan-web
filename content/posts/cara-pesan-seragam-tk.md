@@ -1,6 +1,6 @@
 ---
 title: Cara Pesan Seragam TK untuk Sekolah: Minimal Order, Harga, dan Lama Produksi
-description: Cara memesan seragam nasional TK di Konveksi Hasan: minimal order 25 pcs, harga Rp70-100 ribu per pcs, dan lama produksi 3 minggu sampai 1 bulan.
+description: Cara memesan seragam nasional TK di Konveksi Hasan: minimal order 25 pcs, harga Rp70-100 ribu per set, dan lama produksi 3 minggu sampai 1 bulan.
 date: 2026-11-12
 seo_title: Cara Pesan Seragam TK: Min. Order, Harga, Produksi
 keyword: pesan seragam tk
@@ -16,7 +16,7 @@ Memesan seragam TK untuk satu kelas atau satu sekolah lebih lancar kalau tiga ha
 |---|---|
 | Model | Seragam nasional TK |
 | Minimal order | 25 pcs |
-| Kisaran harga | Rp70.000 sampai Rp100.000 per pcs |
+| Kisaran harga | Rp70.000 sampai Rp100.000 per set (atasan dan bawahan) |
 | Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean |
 | Cara pesan | WhatsApp 0812-8765-8415 |
 
@@ -24,9 +24,9 @@ Memesan seragam TK untuk satu kelas atau satu sekolah lebih lancar kalau tiga ha
 
 Minimal order di Konveksi Hasan adalah **25 pcs**. Untuk sekolah TK, jumlah ini biasanya setara satu sampai dua kelas. Kalau jumlah siswa di bawah 25, kamu bisa menggabungkan pesanan beberapa kelas atau beberapa angkatan sekaligus.
 
-## Berapa harga seragam TK per pcs?
+## Berapa harga seragam TK per set?
 
-Kisaran harganya **Rp70.000 sampai Rp100.000 per pcs**. Angka pastinya bergantung pada:
+Kisaran harganya **Rp70.000 sampai Rp100.000 per set** (atasan dan bawahan). Angka pastinya bergantung pada:
 
 - jumlah pesanan,
 - sebaran ukuran yang dipesan,

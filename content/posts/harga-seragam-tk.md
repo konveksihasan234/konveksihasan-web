@@ -1,6 +1,6 @@
 ---
 title: Harga Seragam TK: Kisaran Biaya dan Faktor yang Memengaruhinya
-description: Berapa harga seragam TK? Simak kisaran harga per pcs di Konveksi Hasan, faktor yang memengaruhi biaya, dan cara meminta penawaran yang jelas.
+description: Berapa harga seragam TK? Simak kisaran harga per set di Konveksi Hasan, faktor yang memengaruhi biaya, dan cara meminta penawaran yang jelas.
 date: 2026-11-19
 seo_title: Harga Seragam TK: Kisaran dan Faktor Biayanya
 keyword: harga seragam tk
@@ -8,13 +8,13 @@ foto: video-7.webp
 foto_isi: produk.webp
 ---
 
-Di Konveksi Hasan, harga seragam TK berada di kisaran Rp70.000 sampai Rp100.000 per pcs, dengan minimal order 25 pcs. Angka pastinya bergantung pada jumlah, ukuran, dan komponen yang dipesan, sehingga harga final selalu diberikan dalam bentuk penawaran.
+Di Konveksi Hasan, harga seragam TK berada di kisaran Rp70.000 sampai Rp100.000 per set (atasan dan bawahan), dengan minimal order 25 pcs. Angka pastinya bergantung pada jumlah, ukuran, dan komponen yang dipesan, sehingga harga final selalu diberikan dalam bentuk penawaran.
 
 ## Kisaran harga seragam TK di Konveksi Hasan
 
 | Hal | Keterangan |
 |---|---|
-| Kisaran harga | Rp70.000 sampai Rp100.000 per pcs |
+| Kisaran harga | Rp70.000 sampai Rp100.000 per set (atasan dan bawahan) |
 | Minimal order | 25 pcs |
 | Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean |
 | Harga pasti | Dikonfirmasi lewat WhatsApp |
@@ -64,7 +64,7 @@ Jawaban yang jelas di awal mencegah salah paham ketika seragam sudah jadi.
 
 ## Harga murah atau harga yang sesuai
 
-Saat membandingkan penawaran, harga per pcs bukan satu-satunya pertimbangan. Hal lain yang sama pentingnya:
+Saat membandingkan penawaran, harga per set bukan satu-satunya pertimbangan. Hal lain yang sama pentingnya:
 
 - Ketepatan waktu. Seragam yang terlambat bisa mengganggu awal tahun ajaran.
 - Kerapian jahitan. Seragam TK dipakai hampir setiap hari dan sering dicuci.
@@ -92,15 +92,15 @@ Simpan juga percakapan dan penawaran sebagai arsip. Arsip ini berguna saat melap
 
 ## Menyiapkan anggaran sekolah
 
-Kisaran harga per pcs bisa dipakai untuk menyusun perkiraan awal anggaran. Contoh hitungan sederhana: 25 pcs dengan harga Rp70.000 per pcs berarti Rp1.750.000, sedangkan dengan harga Rp100.000 per pcs berarti Rp2.500.000. Hitungan ini hanya ilustrasi kisaran; anggaran final tetap mengikuti penawaran resmi sesuai pesanan sekolah.
+Kisaran harga per set bisa dipakai untuk menyusun perkiraan awal anggaran. Contoh hitungan sederhana: 25 set dengan harga Rp70.000 per set berarti Rp1.750.000, sedangkan dengan harga Rp100.000 per set berarti Rp2.500.000. Hitungan ini hanya ilustrasi kisaran; anggaran final tetap mengikuti penawaran resmi sesuai pesanan sekolah.
 
 Langkah pemesanan lengkap bisa dibaca di [panduan cara pesan seragam TK](/blog/cara-pesan-seragam-tk/), dan contoh model seragam ada di bagian [produk](/#produk).
 
 ## Tanya jawab seputar harga seragam TK
 
-### Berapa harga seragam TK per pcs di Konveksi Hasan?
+### Berapa harga seragam TK per set di Konveksi Hasan?
 
-Kisarannya Rp70.000 sampai Rp100.000 per pcs. Harga pasti dikonfirmasi lewat WhatsApp sesuai jumlah, ukuran, dan komponen yang dipesan.
+Kisarannya Rp70.000 sampai Rp100.000 per set (atasan dan bawahan). Harga pasti dikonfirmasi lewat WhatsApp sesuai jumlah, ukuran, dan komponen yang dipesan.
 
 ### Apakah bisa memesan kurang dari 25 pcs?
 
