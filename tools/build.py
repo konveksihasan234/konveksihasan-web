@@ -146,7 +146,7 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
         <ul>
           <li>WhatsApp: <a href="{WA_LINK}" target="_blank" rel="noopener">{WA_TAMPIL}</a></li>
           <li>Alamat: <a href="{MAPS_URL}" target="_blank" rel="noopener">Bawan RT.02/RW.10, Dusun IV, Mrisen, Kec. Juwiring, Kab. Klaten, Jawa Tengah 57472</a></li>
-          <li>Jam buka: setiap hari, tutup pukul 17.00 WIB</li>
+          <li>Jam buka: setiap hari, 09.00 sampai 19.00 WIB</li>
         </ul>
       </div>
       <div>
@@ -375,6 +375,9 @@ def main():
         "name": NAMA,
         "url": SITE,
         "hasMap": MAPS_URL,
+        "openingHoursSpecification": [{"@type": "OpeningHoursSpecification",
+            "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+            "opens": "09:00", "closes": "19:00"}],
         "address": {"@type": "PostalAddress",
                     "streetAddress": "Bawan RT.02/RW.10, Dusun IV, Mrisen",
                     "addressLocality": "Juwiring, Klaten",

@@ -19,9 +19,10 @@ Kepala sekolah TK/PAUD, guru, komite sekolah, dan orang tua yang mengurus pengad
 | Ukuran | Tersedia beberapa pilihan, detail via WhatsApp (JANGAN menulis daftar ukuran) |
 | Kontak | WhatsApp 0812-8765-8415 |
 | Alamat | Bawan RT.02/RW.10, Dusun IV, Mrisen, Kec. Juwiring, Kab. Klaten, Jawa Tengah 57472 (boleh ditulis "Juwiring, Klaten") |
-| Jam buka | Setiap hari, tutup pukul 17.00 WIB (jam buka belum diketahui, JANGAN ditebak) |
+| Jam buka | Setiap hari, 09.00 sampai 19.00 WIB |
+| Tempat produksi | Dijahit sendiri di alamat Klaten di atas (boleh menulis "kami menjahit") |
 
-Belum diketahui, JANGAN ditulis atau ditebak: jam mulai buka, area pengiriman, ongkos kirim, jenis bahan atau kain, garansi, testimoni, jumlah klien, tahun berdiri, diskon.
+Belum diketahui, JANGAN ditulis atau ditebak: area pengiriman, ongkos kirim, jenis bahan atau kain, garansi, testimoni, jumlah klien, tahun berdiri, diskon.
 
 ## Aturan isi
 
