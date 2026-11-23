@@ -18,8 +18,10 @@ Kepala sekolah TK/PAUD, guru, komite sekolah, dan orang tua yang mengurus pengad
 | Lama produksi | 3 minggu sampai 1 bulan, tergantung antrean order |
 | Ukuran | Tersedia beberapa pilihan, detail via WhatsApp (JANGAN menulis daftar ukuran) |
 | Kontak | WhatsApp 0812-8765-8415 |
+| Alamat | Bawan RT.02/RW.10, Dusun IV, Mrisen, Kec. Juwiring, Kab. Klaten, Jawa Tengah 57472 (boleh ditulis "Juwiring, Klaten") |
+| Jam buka | Setiap hari, tutup pukul 17.00 WIB (jam buka belum diketahui, JANGAN ditebak) |
 
-Belum diketahui, JANGAN ditulis atau ditebak: alamat, jam operasional, area pengiriman, ongkos kirim, jenis bahan atau kain, garansi, testimoni, jumlah klien, tahun berdiri, diskon.
+Belum diketahui, JANGAN ditulis atau ditebak: jam mulai buka, area pengiriman, ongkos kirim, jenis bahan atau kain, garansi, testimoni, jumlah klien, tahun berdiri, diskon.
 
 ## Aturan isi
 

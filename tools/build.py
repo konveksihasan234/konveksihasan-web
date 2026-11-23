@@ -30,6 +30,7 @@ SITE = "https://konveksihasan.com"
 NAMA = "Konveksi Hasan"
 WA_NOMOR = "6281287658415"
 WA_TAMPIL = "0812-8765-8415"
+MAPS_URL = "https://maps.google.com/?cid=2999370790668443718"
 WA_PESAN = "Halo Konveksi Hasan, saya ingin tanya pesanan seragam TK."
 WA_LINK = f"https://wa.me/{WA_NOMOR}?text={quote(WA_PESAN)}"
 
@@ -144,8 +145,8 @@ def layout(*, title, description, path, body, aktif="", jsonld=None, og_type="we
         <h3>Kontak</h3>
         <ul>
           <li>WhatsApp: <a href="{WA_LINK}" target="_blank" rel="noopener">{WA_TAMPIL}</a></li>
-          <li>Alamat: <span class="placeholder">segera diperbarui</span></li>
-          <li>Jam buka: <span class="placeholder">segera diperbarui</span></li>
+          <li>Alamat: <a href="{MAPS_URL}" target="_blank" rel="noopener">Bawan RT.02/RW.10, Dusun IV, Mrisen, Kec. Juwiring, Kab. Klaten, Jawa Tengah 57472</a></li>
+          <li>Jam buka: setiap hari, tutup pukul 17.00 WIB</li>
         </ul>
       </div>
       <div>
@@ -370,9 +371,16 @@ def main():
                 .replace("{{FAQ}}", faq_html()))
     org = {
         "@context": "https://schema.org",
-        "@type": "Organization",
+        "@type": "ClothingStore",
         "name": NAMA,
         "url": SITE,
+        "hasMap": MAPS_URL,
+        "address": {"@type": "PostalAddress",
+                    "streetAddress": "Bawan RT.02/RW.10, Dusun IV, Mrisen",
+                    "addressLocality": "Juwiring, Klaten",
+                    "addressRegion": "Jawa Tengah",
+                    "postalCode": "57472",
+                    "addressCountry": "ID"},
         "telephone": "+" + WA_NOMOR,
         "description": "Konveksi seragam TK dan PAUD: seragam nasional, muslim, olahraga, dan kotak-kotak. Minimal order 25 pcs.",
         "logo": SITE + "/assets/img/logo-512.png",
