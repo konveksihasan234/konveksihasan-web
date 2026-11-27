@@ -1,5 +1,6 @@
 DirectoryIndex index.html
 ErrorDocument 404 /404.html
+ErrorDocument 410 /404.html
 Options -Indexes
 
 <IfModule mod_rewrite.c>
@@ -17,6 +18,35 @@ Options -Indexes
   RewriteCond %{HTTP:CF-Visitor} ^$
   RewriteCond %{HTTPS} off
   RewriteRule ^(.*)$ https://konveksihasan.com/$1 [R=301,L]
+
+  # Halaman lama WordPress: yang topiknya seragam diarahkan ke artikel baru
+  RewriteRule ^pembuatan-seragam-tk-nasional/?$ /blog/seragam-tk-nasional/ [R=301,L]
+  RewriteRule ^cara-memilih-seragam-sekolah-anak-tk-yang-tepat/?$ /blog/ukuran-seragam-tk-cara-mengukur/ [R=301,L]
+  RewriteRule ^tips-memilih-seragam-sekolah-yang-nyaman-untuk-anak/?$ /blog/ukuran-seragam-tk-cara-mengukur/ [R=301,L]
+  RewriteRule ^cara-memasukkan-baju-seragam-agar-rapi/?$ /blog/cara-merawat-seragam-tk/ [R=301,L]
+  RewriteRule ^jual-konveksi-seragam-batik-kantor-sekolah-tk-sd-smp-sma/?$ / [R=301,L]
+  RewriteRule ^merek-seragam-sekolah-terbaik-di-indonesia/?$ /blog/memilih-konveksi-seragam-tk/ [R=301,L]
+  RewriteRule ^perbedaan-penjahit-konveksi-dan-garmen-yang-wajib-diketahui/?$ /blog/memilih-konveksi-seragam-tk/ [R=301,L]
+
+  # Halaman lama WordPress yang tidak relevan (kain dan fashion umum): dihapus permanen
+  RewriteRule ^lengkap-10-jenis-beserta-harga-kain-untuk-bahan-pakaian/?$ - [G,L]
+  RewriteRule ^bahan-kain-crepe/?$ - [G,L]
+  RewriteRule ^jenis-kain-bahan-rayon-beserta-kelebihan-dan-kekurangannya/?$ - [G,L]
+  RewriteRule ^rekomendasi-jenis-bahan-atau-kain-untuk-seragam-sekolah/?$ - [G,L]
+  RewriteRule ^jenis-bahan-kaos-lengkap-beserta-tips-cara-memilih-kaos-yang-tepat/?$ - [G,L]
+  RewriteRule ^bahan-tekstil-untuk-pakaian-kerja-terbuat-dari-serat/?$ - [G,L]
+  RewriteRule ^inilah-15-jenis-kain-dan-karakteristiknya/?$ - [G,L]
+  RewriteRule ^jenis-jenis-pakaian-wanita/?$ - [G,L]
+  RewriteRule ^mengenal-kain-microfiber-kelebihan-kekurangan-dan-cara-merawatnya/?$ - [G,L]
+  RewriteRule ^bahan-lacoste-pique/?$ - [G,L]
+  RewriteRule ^bahan-kanvas-dinir-d300/?$ - [G,L]
+  RewriteRule ^jenis-bahan-rayon-serta-detail-kelebihan-dan-kekurangan-harga/?$ - [G,L]
+  RewriteRule ^13-tips-memilih-baju-sesuai-bentuk-tubuh-warna-kulit-dan-acara/?$ - [G,L]
+  RewriteRule ^kaos-family-gathering-cara-membuat-acara-gathering/?$ - [G,L]
+  RewriteRule ^yuk-kenali-jenis-kain-balotelli-serta-harganya/?$ - [G,L]
+  RewriteRule ^12-jenis-jenis-kain-yang-sering-digunakan-untuk-pakaian/?$ - [G,L]
+  RewriteRule ^bahan-kain-cocok-untuk-buat-baju-gamis/?$ - [G,L]
+  RewriteRule ^mengenal-bahan-kain-organza-ciri-kain-dan-jenis-bahannya/?$ - [G,L]
 
   # /index.html -> / (hindari konten ganda)
   RewriteCond %{THE_REQUEST} \s/+(.*/)?index\.html[\s?] [NC]
